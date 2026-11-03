@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tableau de bord des ventes</title>
+  <!-- Chart.js : la bibliothèque qui dessine les graphiques dans le navigateur -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; background: #F5F3EE; color: #14213D; margin: 0; padding: 24px; }
+    h1 { margin: 0 0 16px; }
+    form { margin-bottom: 24px; }
+    select { font-size: 16px; padding: 6px 10px; }
+    .chiffres { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 24px; }
+    .chiffre { background: #14213D; color: #F5F3EE; border-radius: 10px; padding: 16px 20px; min-width: 160px; }
+    .chiffre b { display: block; font-size: 28px; }
+    .graphiques { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; }
+    .carte { background: #FBFAF7; border: 1px solid #D8D3C7; border-radius: 10px; padding: 16px; }
+    h2 { font-size: 18px; margin: 0 0 12px; }
+  </style>
+</head>
+<body>
+  <h1>Ventes janvier – juin 2026</h1>
+
+  <!-- Un formulaire GET : choisir un magasin recharge la page avec ?magasin=... -->
+  <form method="get">
+    <label for="magasin">Magasin :</label>
+    <select id="magasin" name="magasin" onchange="this.form.submit()">
+      {% for m in magasins %}
+        <option value="{{ m }}" {% if m == magasin_choisi %}selected{% endif %}>{{ m }}</option>
+      {% endfor %}
+    </select>
+  </form>
+
+  <!-- Les chiffres clés, calculés par Pandas dans app.py -->
+  <div class="chiffres">
+    <div class="chiffre">Chiffre d'affaires <b>{{ ca_total }} €</b></div>
+    <div class="chiffre">Nombre de ventes <b>{{ nb_ventes }}</b></div>
+    <div class="chiffre">Panier moyen <b>{{ panier_moyen }} €</b></div>
+  </div>
+
+  <div class="graphiques">
+    <div class="carte"><h2>CA par mois (€)</h2><canvas id="graphMois"></canvas></div>
+    <div class="carte"><h2>CA par catégorie (€)</h2><canvas id="graphCategorie"></canvas></div>
+    <div class="carte"><h2>CA par magasin (€, tous magasins)</h2><canvas id="graphMagasin"></canvas></div>
+  </div>
+
+  <script>
+    // Flask a inséré les listes calculées par Pandas : |tojson les transforme en tableaux JavaScript
+    new Chart(document.getElementById("graphMois"), {
+      type: "line",
+      data: { labels: {{ mois_labels|tojson }},
+              datasets: [{ label: "CA", data: {{ mois_valeurs|tojson }}, borderColor: "#B8501F", tension: 0.3 }] },
+      options: { plugins: { legend: { display: false } } }
+    });
+
+    new Chart(document.getElementById("graphCategorie"), {
+      type: "bar",
+      data: { labels: {{ cat_labels|tojson }},
+              datasets: [{ label: "CA", data: {{ cat_valeurs|tojson }}, backgroundColor: "#14213D" }] },
+      options: { plugins: { legend: { display: false } } }
+    });
+
+    new Chart(document.getElementById("graphMagasin"), {
+      type: "bar",
+      data: { labels: {{ mag_labels|tojson }},
+              datasets: [{ label: "CA", data: {{ mag_valeurs|tojson }}, backgroundColor: "#B8501F" }] },
+      options: { indexAxis: "y", plugins: { legend: { display: false } } }
+    });
+  </script>
+</body>
+</html>

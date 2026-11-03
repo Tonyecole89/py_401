@@ -1,0 +1,1509 @@
+id_vente,date,magasin,categorie,produit,quantite,prix_unitaire
+166,2026-01-01,Marseille,Café,Cappuccino,4,3.5
+363,2026-01-01,Paris,Thé,Thé à la menthe,4,3.5
+549,2026-01-01,Lille,Thé,Thé à la menthe,4,3.5
+662,2026-01-01,Paris,Thé,Thé à la menthe,1,3.5
+754,2026-01-01,Paris,Viennoiserie,Croissant,2,1.3
+1053,2026-01-01,Lyon,Viennoiserie,Croissant,1,1.3
+1079,2026-01-01,Paris,Viennoiserie,Chausson aux pommes,3,2.2
+1104,2026-01-01,Lille,Thé,Thé vert,6,3.0
+1212,2026-01-01,Paris,Pâtisserie,Cookie,1,2.5
+1319,2026-01-01,Lyon,Thé,Thé à la menthe,6,3.5
+157,2026-01-02,Paris,Café,Cappuccino,1,3.5
+581,2026-01-02,Paris,Thé,Thé vert,6,3.0
+958,2026-01-02,Lyon,Viennoiserie,Chausson aux pommes,3,2.2
+980,2026-01-02,Lille,Thé,Thé vert,2,3.0
+1153,2026-01-02,Marseille,Pâtisserie,Cookie,1,2.5
+1301,2026-01-02,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+133,2026-01-03,Lyon,Pâtisserie,Muffin,6,3.0
+214,2026-01-03,Paris,Thé,Thé vert,2,3.0
+229,2026-01-03,Paris,Café,Espresso,2,2.0
+296,2026-01-03,Paris,Thé,Thé vert,1,3.0
+687,2026-01-03,Marseille,Pâtisserie,Muffin,2,3.0
+1333,2026-01-03,Paris,Viennoiserie,Chausson aux pommes,2,2.2
+49,2026-01-04,Paris,Thé,Thé vert,1,3.0
+340,2026-01-04,Marseille,Café,Latte,4,4.0
+416,2026-01-04,Paris,Café,Cappuccino,2,3.5
+471,2026-01-04,Lille,Viennoiserie,Croissant,1,1.3
+556,2026-01-04,Paris,Thé,Thé vert,6,3.0
+611,2026-01-04,Paris,Thé,Thé à la menthe,1,3.5
+708,2026-01-04,Lille,Thé,Thé vert,4,3.0
+749,2026-01-04,Paris,Boisson fraîche,Jus d'orange,2,3.5
+763,2026-01-04,Paris,Café,Latte,6,4.0
+912,2026-01-04,Paris,Café,Espresso,4,2.0
+1248,2026-01-04,Paris,Viennoiserie,Pain au chocolat,1,1.5
+1324,2026-01-04,Lyon,Thé,Thé à la menthe,1,3.5
+269,2026-01-05,Lyon,Café,Espresso,2,2.0
+572,2026-01-05,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+973,2026-01-05,Lyon,Viennoiserie,Chausson aux pommes,2,2.2
+1186,2026-01-05,Paris,Thé,Thé vert,2,3.0
+1477,2026-01-05,Paris,Pâtisserie,Cheesecake,2,4.5
+381,2026-01-06,Lyon,Viennoiserie,Chausson aux pommes,4,2.2
+457,2026-01-06,Paris,Café,Latte,3,4.0
+475,2026-01-06,Lyon,Viennoiserie,Chausson aux pommes,2,2.2
+635,2026-01-06,Paris,Café,Cappuccino,4,3.5
+848,2026-01-06,Lyon,Viennoiserie,Chausson aux pommes,1,2.2
+941,2026-01-06,Marseille,Café,Latte,6,4.0
+981,2026-01-06,Paris,Thé,Thé vert,,3.0
+1300,2026-01-06,Marseille,Thé,Thé à la menthe,1,3.5
+54,2026-01-07,Paris,Viennoiserie,Croissant,2,1.3
+449,2026-01-07,Lyon,Thé,Thé à la menthe,1,3.5
+701,2026-01-07,Paris,Thé,Thé vert,3,3.0
+858,2026-01-07,Lille,Café,Cappuccino,4,3.5
+934,2026-01-07,Lille,Thé,Thé à la menthe,1,3.5
+999,2026-01-07,Lyon,Thé,Thé à la menthe,6,3.5
+1189,2026-01-07,Marseille,Pâtisserie,Muffin,2,3.0
+1299,2026-01-07,Lyon,Café,Cappuccino,6,3.5
+58,2026-01-08,Lyon,Thé,Thé à la menthe,4,3.5
+103,2026-01-08,Paris,Thé,Thé vert,,3.0
+241,2026-01-08,Lille,Thé,Thé à la menthe,1,3.5
+484,2026-01-08,Lyon,Boisson fraîche,Limonade,6,3.0
+541,2026-01-08,Lyon,Thé,Thé à la menthe,2,3.5
+545,2026-01-08,Marseille,Viennoiserie,Chausson aux pommes,1,2.2
+613,2026-01-08,Lyon,Thé,Thé vert,1,3.0
+747,2026-01-08,Lyon,Boisson fraîche,Jus d'orange,2,3.5
+851,2026-01-08,Lille,Café,Latte,6,4.0
+967,2026-01-08,Paris,Boisson fraîche,Limonade,1,3.0
+982,2026-01-08,Lyon,Thé,Thé vert,1,3.0
+1055,2026-01-08,Lyon,Thé,Thé à la menthe,4,3.5
+1199,2026-01-08,Lyon,Thé,Thé à la menthe,1,3.5
+1277,2026-01-08,Paris,Viennoiserie,Chausson aux pommes,6,2.2
+1311,2026-01-08,Lyon,Boisson fraîche,Jus d'orange,2,3.5
+147,2026-01-09,Lyon,Thé,Thé à la menthe,2,3.5
+305,2026-01-09,Paris,Thé,Thé vert,4,3.0
+336,2026-01-09,Lyon,Boisson fraîche,Limonade,3,3.0
+536,2026-01-09,Paris,Viennoiserie,Pain au chocolat,1,1.5
+738,2026-01-09,Paris,Thé,Thé à la menthe,1,3.5
+951,2026-01-09,Marseille,Café,Latte,4,4.0
+994,2026-01-09,Lyon,Pâtisserie,Muffin,1,3.0
+1192,2026-01-09,Paris,Boisson fraîche,Jus d'orange,2,3.5
+1498,2026-01-09,Marseille,Thé,Thé vert,3,3.0
+57,2026-01-10,Paris,Viennoiserie,Chausson aux pommes,2,2.2
+70,2026-01-10,Lyon,Café,Latte,2,4.0
+221,2026-01-10,Paris,Boisson fraîche,Limonade,4,3.0
+489,2026-01-10,Paris,Boisson fraîche,Limonade,2,3.0
+510,2026-01-10,Marseille,Café,Espresso,1,2.0
+574,2026-01-10,Paris,Viennoiserie,Croissant,6,1.3
+643,2026-01-10,Paris,Viennoiserie,Croissant,1,1.3
+713,2026-01-10,Lyon,Pâtisserie,Cookie,3,2.5
+845,2026-01-10,Lyon,Viennoiserie,Pain au chocolat,1,1.5
+929,2026-01-10,Lyon,Viennoiserie,Croissant,2,1.3
+1035,2026-01-10,Paris,Pâtisserie,Cookie,2,2.5
+1069,2026-01-10,Lyon,Boisson fraîche,Jus d'orange,4,3.5
+1171,2026-01-10,Paris,Thé,Thé à la menthe,6,3.5
+1350,2026-01-10,Marseille,Pâtisserie,Cheesecake,2,4.5
+1457,2026-01-10,Lyon,Viennoiserie,Pain au chocolat,3,1.5
+75,2026-01-11,Marseille,Thé,Thé à la menthe,2,3.5
+268,2026-01-11,Lyon,Thé,Thé à la menthe,1,3.5
+324,2026-01-11,Paris,Thé,Thé vert,4,3.0
+364,2026-01-11,Paris,Café,Espresso,6,2.0
+794,2026-01-11,Paris,Thé,Thé à la menthe,3,3.5
+924,2026-01-11,Lyon,Thé,Thé vert,1,3.0
+1193,2026-01-11,Lyon,Café,Espresso,4,2.0
+1428,2026-01-11,Lyon,Pâtisserie,Muffin,1,3.0
+34,2026-01-12,Lyon,Café,Latte,2,4.0
+295,2026-01-12,Lyon,Café,Latte,6,4.0
+335,2026-01-12,Lyon,Thé,Thé vert,1,3.0
+442,2026-01-12,Marseille,Thé,Thé vert,2,3.0
+508,2026-01-12,Paris,Boisson fraîche,Limonade,3,3.0
+525,2026-01-12,Paris,Viennoiserie,Chausson aux pommes,2,2.2
+612,2026-01-12,Lyon,Café,Espresso,2,2.0
+798,2026-01-12,Paris,Thé,Thé à la menthe,6,3.5
+1162,2026-01-12,Marseille,Thé,Thé à la menthe,2,3.5
+1313,2026-01-12,Lille,Café,Espresso,2,2.0
+156,2026-01-13,Paris,Thé,Thé à la menthe,2,3.5
+275,2026-01-13,Marseille,Café,Espresso,1,2.0
+433,2026-01-13,Lille,Thé,Thé à la menthe,2,3.5
+528,2026-01-13,Paris,Viennoiserie,Croissant,2,1.3
+626,2026-01-13,Paris,Pâtisserie,Cheesecake,4,4.5
+799,2026-01-13,Lyon,Pâtisserie,Cookie,,2.5
+808,2026-01-13,Paris,Boisson fraîche,Limonade,4,3.0
+853,2026-01-13,Paris,Thé,Thé à la menthe,3,3.5
+1400,2026-01-13,Lyon,Thé,Thé à la menthe,1,3.5
+159,2026-01-14,Lyon,Thé,Thé à la menthe,1,3.5
+325,2026-01-14,Lyon,Thé,Thé à la menthe,3,3.5
+430,2026-01-14,Paris,Café,Cappuccino,4,3.5
+473,2026-01-14,Paris,Café,Latte,2,4.0
+582,2026-01-14,Paris,Pâtisserie,Cheesecake,4,4.5
+894,2026-01-14,Marseille,Pâtisserie,Cheesecake,1,4.5
+998,2026-01-14,Paris,Thé,Thé vert,1,3.0
+1221,2026-01-14,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+64,2026-01-15,Lyon,Café,Espresso,6,2.0
+65,2026-01-15,Lille,Boisson fraîche,Limonade,3,3.0
+731,2026-01-15,Paris,Thé,Thé à la menthe,2,3.5
+761,2026-01-15,Marseille,Pâtisserie,Cookie,2,2.5
+1002,2026-01-15,Marseille,Boisson fraîche,Jus d'orange,2,3.5
+1005,2026-01-15,Paris,Café,Cappuccino,2,3.5
+1074,2026-01-15,Marseille,Pâtisserie,Cheesecake,3,4.5
+1158,2026-01-15,Marseille,Pâtisserie,Muffin,6,3.0
+302,2026-01-16,Lyon,Café,Espresso,4,2.0
+400,2026-01-16,Lyon,Pâtisserie,Cookie,1,2.5
+548,2026-01-16,Paris,Viennoiserie,Pain au chocolat,1,1.5
+1374,2026-01-16,Lille,Pâtisserie,Cookie,3,2.5
+21,2026-01-17,Lyon,Pâtisserie,Cookie,4,2.5
+194,2026-01-17,Marseille,Thé,Thé à la menthe,1,3.5
+366,2026-01-17,Lille,Thé,Thé vert,3,3.0
+867,2026-01-17,Lille,Café,Latte,3,4.0
+1082,2026-01-17,Lille,Café,Espresso,1,2.0
+1265,2026-01-17,Paris,Café,Espresso,2,2.0
+172,2026-01-18,Paris,Boisson fraîche,Jus d'orange,4,3.5
+402,2026-01-18,Lyon,Viennoiserie,Croissant,4,1.3
+746,2026-01-18,Lille,Thé,Thé vert,2,3.0
+787,2026-01-18,Lille,Viennoiserie,Croissant,2,1.3
+901,2026-01-18,Lyon,Viennoiserie,Pain au chocolat,2,1.5
+1130,2026-01-18,Lille,Café,Latte,1,4.0
+1159,2026-01-18,Paris,Café,Cappuccino,6,3.5
+1281,2026-01-18,Lyon,Café,Latte,2,4.0
+1323,2026-01-18,Paris,Thé,Thé vert,1,3.0
+29,2026-01-19,Paris,Viennoiserie,Croissant,1,1.3
+307,2026-01-19,Lille,Café,Cappuccino,2,3.5
+322,2026-01-19,Lyon,Thé,Thé à la menthe,2,3.5
+421,2026-01-19,Marseille,Viennoiserie,Pain au chocolat,4,1.5
+676,2026-01-19,Marseille,Thé,Thé à la menthe,3,3.5
+710,2026-01-19,Marseille,Boisson fraîche,Limonade,1,3.0
+833,2026-01-19,Paris,Viennoiserie,Pain au chocolat,2,1.5
+892,2026-01-19,Paris,Boisson fraîche,Limonade,1,3.0
+1057,2026-01-19,Lyon,Café,Espresso,1,2.0
+1145,2026-01-19,Paris,Boisson fraîche,Limonade,1,3.0
+1441,2026-01-19,Lyon,Café,Latte,4,4.0
+273,2026-01-20,Lille,Viennoiserie,Pain au chocolat,1,1.5
+379,2026-01-20,Lille,Pâtisserie,Muffin,1,3.0
+589,2026-01-20,Lille,Viennoiserie,Chausson aux pommes,1,2.2
+610,2026-01-20,Lyon,Café,Espresso,1,2.0
+624,2026-01-20,Marseille,Thé,Thé à la menthe,6,3.5
+696,2026-01-20,Paris,Viennoiserie,Pain au chocolat,6,1.5
+750,2026-01-20,Lyon,Thé,Thé vert,4,3.0
+1219,2026-01-20,Lille,Viennoiserie,Chausson aux pommes,2,2.2
+1491,2026-01-20,Lyon,Viennoiserie,Chausson aux pommes,3,2.2
+37,2026-01-21,Lyon,Thé,Thé à la menthe,6,3.5
+274,2026-01-21,Paris,Café,Espresso,1,2.0
+334,2026-01-21,Lyon,Viennoiserie,Pain au chocolat,1,1.5
+440,2026-01-21,Lyon,Boisson fraîche,Limonade,2,3.0
+513,2026-01-21,Paris,Thé,Thé à la menthe,1,3.5
+908,2026-01-21,Paris,Café,Latte,1,4.0
+1455,2026-01-21,Marseille,Café,Cappuccino,1,3.5
+74,2026-01-22,Paris,Pâtisserie,Muffin,2,3.0
+518,2026-01-22,Paris,Café,Cappuccino,4,3.5
+632,2026-01-22,Lyon,Pâtisserie,Muffin,1,3.0
+636,2026-01-22,Lille,Thé,Thé vert,3,3.0
+640,2026-01-22,Lyon,Pâtisserie,Muffin,2,3.0
+786,2026-01-22,Lyon,Boisson fraîche,Limonade,1,3.0
+921,2026-01-22,Lyon,Viennoiserie,Pain au chocolat,1,1.5
+254,2026-01-23,Lyon,Viennoiserie,Chausson aux pommes,6,2.2
+460,2026-01-23,Lyon,Thé,Thé à la menthe,1,3.5
+477,2026-01-23,Marseille,Pâtisserie,Muffin,3,3.0
+494,2026-01-23,Marseille,Pâtisserie,Muffin,6,3.0
+717,2026-01-23,Paris,Thé,Thé vert,1,3.0
+755,2026-01-23,Paris,Viennoiserie,Pain au chocolat,1,1.5
+897,2026-01-23,Lille,Viennoiserie,Croissant,2,1.3
+969,2026-01-23,Lyon,Viennoiserie,Croissant,1,1.3
+1298,2026-01-23,Lille,Boisson fraîche,Limonade,1,3.0
+1478,2026-01-23,Paris,Pâtisserie,Cheesecake,2,4.5
+129,2026-01-24,Lille,Thé,Thé vert,1,3.0
+141,2026-01-24,Paris,Thé,Thé vert,1,3.0
+353,2026-01-24,Paris,Café,Latte,1,4.0
+414,2026-01-24,Paris,Viennoiserie,Chausson aux pommes,6,2.2
+630,2026-01-24,Paris,Viennoiserie,Pain au chocolat,4,1.5
+678,2026-01-24,Lyon,Boisson fraîche,Limonade,1,3.0
+793,2026-01-24,Lyon,Thé,Thé vert,2,3.0
+952,2026-01-24,Lyon,Thé,Thé à la menthe,3,3.5
+1201,2026-01-24,Marseille,Thé,Thé à la menthe,2,3.5
+1204,2026-01-24,Lille,Boisson fraîche,Limonade,6,3.0
+1255,2026-01-24,Lyon,Boisson fraîche,Jus d'orange,2,3.5
+1396,2026-01-24,Lyon,Boisson fraîche,Limonade,3,3.0
+1461,2026-01-24,Lyon,Viennoiserie,Chausson aux pommes,4,2.2
+40,2026-01-25,Marseille,Thé,Thé vert,6,3.0
+101,2026-01-25,Paris,Thé,Thé vert,1,3.0
+175,2026-01-25,Paris,Viennoiserie,Croissant,4,1.3
+226,2026-01-25,Marseille,Pâtisserie,Cheesecake,6,4.5
+553,2026-01-25,Paris,Pâtisserie,Cookie,1,2.5
+691,2026-01-25,Paris,Café,Espresso,2,2.0
+757,2026-01-25,Paris,Viennoiserie,Croissant,6,1.3
+827,2026-01-25,Lille,Thé,Thé vert,3,3.0
+846,2026-01-25,Lyon,Boisson fraîche,Limonade,1,3.0
+1064,2026-01-25,Lyon,Boisson fraîche,Limonade,3,3.0
+1228,2026-01-25,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+1379,2026-01-25,Marseille,Thé,Thé à la menthe,6,3.5
+4,2026-01-26,Lyon,Pâtisserie,Cookie,4,2.5
+491,2026-01-26,Lyon,Café,Espresso,4,2.0
+491,2026-01-26,Lyon,Café,Espresso,4,2.0
+684,2026-01-26,Paris,Viennoiserie,Chausson aux pommes,2,2.2
+821,2026-01-26,Lille,Thé,Thé vert,6,3.0
+895,2026-01-26,Marseille,Café,Latte,3,4.0
+1087,2026-01-26,Paris,Thé,Thé à la menthe,2,3.5
+1137,2026-01-26,Paris,Boisson fraîche,Jus d'orange,1,3.5
+1157,2026-01-26,Paris,Thé,Thé à la menthe,2,3.5
+1187,2026-01-26,Paris,Boisson fraîche,Limonade,1,3.0
+218,2026-01-27,Marseille,Boisson fraîche,Jus d'orange,2,3.5
+220,2026-01-27,Marseille,Café,Latte,4,4.0
+228,2026-01-27,Paris,Thé,Thé à la menthe,1,3.5
+310,2026-01-27,Paris,Thé,Thé vert,1,3.0
+455,2026-01-27,Lille,Thé,Thé à la menthe,3,3.5
+648,2026-01-27,Lyon,Pâtisserie,Cookie,2,2.5
+938,2026-01-27,Paris,Boisson fraîche,Jus d'orange,2,3.5
+1348,2026-01-27,Paris,Viennoiserie,Chausson aux pommes,2,2.2
+1466,2026-01-27,Lille,Boisson fraîche,Jus d'orange,3,3.5
+1468,2026-01-27,Marseille,Café,Latte,1,4.0
+81,2026-01-28,Lille,Thé,Thé vert,4,3.0
+151,2026-01-28,Marseille,Pâtisserie,Cookie,2,2.5
+190,2026-01-28,Paris,Thé,Thé à la menthe,6,3.5
+329,2026-01-28,Paris,Boisson fraîche,Limonade,2,3.0
+537,2026-01-28,Lille,Thé,Thé vert,1,3.0
+580,2026-01-28,Lyon,Café,Cappuccino,3,3.5
+884,2026-01-28,Lyon,Thé,Thé vert,2,3.0
+1112,2026-01-28,Marseille,Boisson fraîche,Limonade,1,3.0
+1140,2026-01-28,Lyon,Boisson fraîche,Jus d'orange,3,3.5
+1365,2026-01-28,Lyon,Thé,Thé vert,1,3.0
+43,2026-01-29,Lyon,Viennoiserie,Chausson aux pommes,2,2.2
+209,2026-01-29,Lille,Thé,Thé vert,3,3.0
+338,2026-01-29,Paris,Boisson fraîche,Limonade,4,3.0
+390,2026-01-29,Lyon,Pâtisserie,Muffin,4,3.0
+872,2026-01-29,Paris,Boisson fraîche,Limonade,2,3.0
+906,2026-01-29,Paris,Pâtisserie,Cheesecake,3,4.5
+985,2026-01-29,Lyon,Pâtisserie,Cheesecake,3,4.5
+1063,2026-01-29,Paris,Thé,Thé vert,2,3.0
+1355,2026-01-29,Marseille,Café,Espresso,1,2.0
+79,2026-01-30,Lyon,Café,Espresso,3,2.0
+192,2026-01-30,Paris,Café,Cappuccino,1,3.5
+437,2026-01-30,Lille,Thé,Thé à la menthe,3,3.5
+446,2026-01-30,Lille,Boisson fraîche,Limonade,4,3.0
+447,2026-01-30,Paris,Thé,Thé vert,3,3.0
+497,2026-01-30,Lyon,Café,Latte,6,4.0
+519,2026-01-30,Paris,Café,Cappuccino,2,3.5
+538,2026-01-30,Lille,Pâtisserie,Muffin,3,3.0
+639,2026-01-30,Lyon,Thé,Thé vert,6,3.0
+716,2026-01-30,Paris,Thé,Thé à la menthe,3,3.5
+726,2026-01-30,Paris,Thé,Thé à la menthe,1,3.5
+971,2026-01-30,Paris,Viennoiserie,Croissant,3,1.3
+1410,2026-01-30,Lille,Café,Latte,2,4.0
+1,2026-01-31,Paris,Boisson fraîche,Jus d'orange,2,3.5
+248,2026-01-31,Marseille,Viennoiserie,Pain au chocolat,1,1.5
+261,2026-01-31,Marseille,Boisson fraîche,Jus d'orange,3,3.5
+411,2026-01-31,Paris,Boisson fraîche,Limonade,2,3.0
+453,2026-01-31,Paris,Café,Cappuccino,1,3.5
+461,2026-01-31,Lyon,Pâtisserie,Muffin,2,3.0
+472,2026-01-31,Marseille,Thé,Thé à la menthe,1,3.5
+530,2026-01-31,Marseille,Viennoiserie,Chausson aux pommes,6,2.2
+767,2026-01-31,Lyon,Thé,Thé vert,2,3.0
+775,2026-01-31,Paris,Boisson fraîche,Limonade,2,3.0
+893,2026-01-31,Paris,Boisson fraîche,Limonade,2,3.0
+918,2026-01-31,Lyon,Café,Cappuccino,3,3.5
+970,2026-01-31,Paris,Pâtisserie,Muffin,3,3.0
+1026,2026-01-31,Lille,Thé,Thé à la menthe,4,3.5
+1338,2026-01-31,Paris,Thé,Thé à la menthe,3,3.5
+1381,2026-01-31,Lille,Pâtisserie,Muffin,2,3.0
+1492,2026-01-31,Paris,Café,Espresso,4,2.0
+238,2026-02-01,Paris,Thé,Thé à la menthe,2,3.5
+283,2026-02-01,Paris,Thé,Thé vert,2,3.0
+841,2026-02-01,Lyon,Thé,Thé à la menthe,2,3.5
+885,2026-02-01,Paris,Café,Espresso,2,2.0
+1008,2026-02-01,Paris,Viennoiserie,Croissant,1,1.3
+1022,2026-02-01,Lyon,Thé,Thé vert,1,3.0
+1106,2026-02-01,Paris,Viennoiserie,Pain au chocolat,1,1.5
+1315,2026-02-01,Lyon,Viennoiserie,Croissant,4,1.3
+1494,2026-02-01,Paris,Thé,Thé à la menthe,3,3.5
+181,2026-02-02,Lyon,Boisson fraîche,Limonade,4,3.0
+219,2026-02-02,Paris,Pâtisserie,Cheesecake,1,4.5
+332,2026-02-02,Marseille,Pâtisserie,Cookie,6,2.5
+465,2026-02-02,Paris,Viennoiserie,Chausson aux pommes,4,2.2
+566,2026-02-02,Paris,Café,Cappuccino,1,3.5
+781,2026-02-02,Marseille,Viennoiserie,Chausson aux pommes,1,2.2
+987,2026-02-02,Lille,Thé,Thé vert,4,3.0
+988,2026-02-02,Lille,Viennoiserie,Croissant,6,1.3
+117,2026-02-03,Marseille,Thé,Thé vert,2,3.0
+164,2026-02-03,Lille,Boisson fraîche,Jus d'orange,6,3.5
+198,2026-02-03,Paris,Pâtisserie,Cookie,6,2.5
+932,2026-02-03,Paris,Thé,Thé à la menthe,1,3.5
+27,2026-02-04,Marseille,Boisson fraîche,Limonade,4,3.0
+115,2026-02-04,Lyon,Viennoiserie,Chausson aux pommes,4,2.2
+349,2026-02-04,Lyon,Thé,Thé vert,2,3.0
+1048,2026-02-04,Paris,Thé,Thé à la menthe,1,3.5
+1114,2026-02-04,Lyon,Thé,Thé vert,3,3.0
+71,2026-02-05,Marseille,Café,Espresso,2,2.0
+134,2026-02-05,Paris,Thé,Thé à la menthe,6,3.5
+480,2026-02-05,Paris,Thé,Thé vert,6,3.0
+715,2026-02-05,Lyon,Viennoiserie,Croissant,1,1.3
+993,2026-02-05,Marseille,Café,Espresso,6,2.0
+1163,2026-02-05,Lille,Thé,Thé vert,2,3.0
+1217,2026-02-05,Paris,Pâtisserie,Cookie,1,2.5
+1361,2026-02-05,Lyon,Café,Cappuccino,1,3.5
+13,2026-02-06,Lyon,Thé,Thé vert,6,3.0
+375,2026-02-06,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+534,2026-02-06,Lille,Café,Espresso,4,2.0
+945,2026-02-06,Paris,Viennoiserie,Chausson aux pommes,2,2.2
+1194,2026-02-06,Marseille,Thé,Thé à la menthe,3,3.5
+1391,2026-02-06,Lyon,Thé,Thé à la menthe,4,3.5
+22,2026-02-07,Lyon,Thé,Thé à la menthe,1,3.5
+61,2026-02-07,Paris,Café,Cappuccino,4,3.5
+123,2026-02-07,Marseille,Café,Espresso,1,2.0
+751,2026-02-07,Paris,Thé,Thé à la menthe,1,3.5
+777,2026-02-07,Paris,Pâtisserie,Muffin,1,3.0
+835,2026-02-07,Lille,Pâtisserie,Cheesecake,2,4.5
+964,2026-02-07,Marseille,Viennoiserie,Chausson aux pommes,1,2.2
+992,2026-02-07,Paris,Boisson fraîche,Jus d'orange,1,3.5
+1021,2026-02-07,Lyon,Viennoiserie,Pain au chocolat,2,1.5
+1049,2026-02-07,Lyon,Thé,Thé à la menthe,2,3.5
+1211,2026-02-07,Marseille,Boisson fraîche,Jus d'orange,4,3.5
+1220,2026-02-07,Lyon,Café,Latte,2,4.0
+1305,2026-02-07,Marseille,Pâtisserie,Cookie,3,2.5
+28,2026-02-08,Lyon,Thé,Thé vert,4,3.0
+599,2026-02-08,Lille,Café,Cappuccino,3,3.5
+975,2026-02-08,Marseille,Thé,Thé vert,2,3.0
+1044,2026-02-08,Paris,Boisson fraîche,Jus d'orange,1,3.5
+1093,2026-02-08,Lille,Café,Espresso,2,2.0
+1094,2026-02-08,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+1230,2026-02-08,Lille,Boisson fraîche,Limonade,2,3.0
+1247,2026-02-08,Paris,Café,Latte,2,4.0
+1294,2026-02-08,Lyon,Thé,Thé vert,1,3.0
+531,2026-02-09,Paris,Boisson fraîche,Jus d'orange,3,3.5
+692,2026-02-09,Lyon,Thé,Thé à la menthe,2,3.5
+839,2026-02-09,Paris,Thé,Thé vert,2,3.0
+871,2026-02-09,Lyon,Viennoiserie,Pain au chocolat,2,1.5
+976,2026-02-09,Marseille,Thé,Thé vert,1,3.0
+1056,2026-02-09,Lyon,Café,Latte,3,4.0
+1357,2026-02-09,Marseille,Thé,Thé à la menthe,4,3.5
+191,2026-02-10,Lyon,Thé,Thé vert,1,3.0
+312,2026-02-10,Paris,Thé,Thé vert,1,3.0
+891,2026-02-10,Paris,Viennoiserie,Chausson aux pommes,4,2.2
+1115,2026-02-10,Marseille,Café,Latte,1,4.0
+1161,2026-02-10,Paris,Viennoiserie,Croissant,3,1.3
+1161,2026-02-10,Paris,Viennoiserie,Croissant,3,1.3
+36,2026-02-11,Lyon,Thé,Thé à la menthe,4,3.5
+48,2026-02-11,Paris,Thé,Thé à la menthe,4,3.5
+125,2026-02-11,Lyon,Café,Cappuccino,2,3.5
+208,2026-02-11,Paris,Boisson fraîche,Limonade,2,3.0
+665,2026-02-11,Marseille,Viennoiserie,Pain au chocolat,3,1.5
+785,2026-02-11,Marseille,Viennoiserie,Pain au chocolat,1,1.5
+1200,2026-02-11,Paris,Café,Cappuccino,1,3.5
+1286,2026-02-11,Lyon,Pâtisserie,Cheesecake,4,4.5
+162,2026-02-12,Lyon,Boisson fraîche,Limonade,2,3.0
+345,2026-02-12,Lyon,Café,Cappuccino,6,3.5
+500,2026-02-12,Lille,Viennoiserie,Chausson aux pommes,2,2.2
+623,2026-02-12,Marseille,Viennoiserie,Pain au chocolat,1,1.5
+634,2026-02-12,Lyon,Thé,Thé à la menthe,4,3.5
+688,2026-02-12,Lyon,Boisson fraîche,Limonade,4,3.0
+847,2026-02-12,Marseille,Boisson fraîche,Limonade,1,3.0
+1089,2026-02-12,Paris,Thé,Thé vert,2,3.0
+1089,2026-02-12,Paris,Thé,Thé vert,2,3.0
+1123,2026-02-12,Marseille,Pâtisserie,Cookie,1,2.5
+1138,2026-02-12,Marseille,Thé,Thé à la menthe,1,3.5
+1195,2026-02-12,Lyon,Pâtisserie,Cheesecake,3,4.5
+1209,2026-02-12,Paris,Thé,Thé vert,6,3.0
+1250,2026-02-12,Lyon,Boisson fraîche,Jus d'orange,4,3.5
+1302,2026-02-12,Lyon,Café,Espresso,3,2.0
+126,2026-02-13,Paris,Pâtisserie,Cookie,4,2.5
+232,2026-02-13,Paris,Boisson fraîche,Jus d'orange,4,3.5
+422,2026-02-13,Marseille,Thé,Thé vert,3,3.0
+557,2026-02-13,Paris,Viennoiserie,Chausson aux pommes,2,2.2
+656,2026-02-13,Marseille,Boisson fraîche,Limonade,1,3.0
+709,2026-02-13,Lyon,Thé,Thé à la menthe,4,3.5
+779,2026-02-13,Lille,Boisson fraîche,Jus d'orange,3,3.5
+828,2026-02-13,Marseille,Thé,Thé vert,4,3.0
+1169,2026-02-13,Lille,Boisson fraîche,Limonade,1,3.0
+1177,2026-02-13,Paris,Boisson fraîche,Limonade,6,3.0
+1287,2026-02-13,Lyon,Boisson fraîche,Limonade,1,3.0
+1371,2026-02-13,Marseille,Thé,Thé vert,6,3.0
+1484,2026-02-13,Lyon,Viennoiserie,Chausson aux pommes,4,2.2
+131,2026-02-14,Paris,Pâtisserie,Muffin,1,3.0
+417,2026-02-14,Lyon,Viennoiserie,Croissant,1,1.3
+721,2026-02-14,Paris,Thé,Thé vert,1,3.0
+997,2026-02-14,Paris,Café,Espresso,6,2.0
+1023,2026-02-14,Lille,Thé,Thé vert,2,3.0
+1070,2026-02-14,Paris,Viennoiserie,Chausson aux pommes,3,2.2
+1092,2026-02-14,Lyon,Boisson fraîche,Limonade,1,3.0
+1096,2026-02-14,Lille,Café,Latte,2,4.0
+669,2026-02-15,Lyon,Thé,Thé à la menthe,1,3.5
+774,2026-02-15,Marseille,Pâtisserie,Cheesecake,3,4.5
+782,2026-02-15,Marseille,Thé,Thé à la menthe,6,3.5
+1246,2026-02-15,Lyon,Viennoiserie,Croissant,1,1.3
+425,2026-02-16,Lyon,Boisson fraîche,Limonade,2,3.0
+638,2026-02-16,Marseille,Thé,Thé vert,2,3.0
+1175,2026-02-16,Lille,Viennoiserie,Croissant,1,1.3
+1474,2026-02-16,Paris,Thé,Thé à la menthe,2,3.5
+120,2026-02-17,Marseille,Pâtisserie,Muffin,1,3.0
+317,2026-02-17,Paris,Thé,Thé à la menthe,2,3.5
+393,2026-02-17,Lyon,Viennoiserie,Croissant,3,1.3
+661,2026-02-17,Lille,Viennoiserie,Pain au chocolat,3,1.5
+729,2026-02-17,Paris,Pâtisserie,Cookie,6,2.5
+843,2026-02-17,Paris,Café,Latte,2,4.0
+1409,2026-02-17,Paris,Thé,Thé vert,2,3.0
+234,2026-02-18,Marseille,Viennoiserie,Chausson aux pommes,1,2.2
+389,2026-02-18,Marseille,Viennoiserie,Chausson aux pommes,4,2.2
+517,2026-02-18,Lyon,Thé,Thé vert,1,3.0
+584,2026-02-18,Lyon,Pâtisserie,Cheesecake,2,4.5
+728,2026-02-18,Paris,Viennoiserie,Chausson aux pommes,4,2.2
+752,2026-02-18,Paris,Viennoiserie,Croissant,2,1.3
+1097,2026-02-18,Paris,Pâtisserie,Cookie,4,2.5
+1131,2026-02-18,Paris,Viennoiserie,Chausson aux pommes,2,2.2
+1386,2026-02-18,Marseille,Thé,Thé à la menthe,1,3.5
+1413,2026-02-18,Paris,Thé,Thé à la menthe,1,3.5
+256,2026-02-19,Marseille,Thé,Thé vert,2,3.0
+306,2026-02-19,Lille,Pâtisserie,Cheesecake,6,4.5
+311,2026-02-19,Lille,Thé,Thé à la menthe,1,3.5
+666,2026-02-19,Marseille,Thé,Thé vert,2,3.0
+681,2026-02-19,Paris,Café,Espresso,6,2.0
+911,2026-02-19,Lille,Café,Cappuccino,2,3.5
+1243,2026-02-19,Paris,Café,Cappuccino,3,3.5
+56,2026-02-20,Lyon,Café,Espresso,1,2.0
+152,2026-02-20,Paris,Thé,Thé à la menthe,1,3.5
+282,2026-02-20,Lyon,Thé,Thé vert,4,3.0
+483,2026-02-20,Paris,Viennoiserie,Croissant,2,1.3
+633,2026-02-20,Paris,Boisson fraîche,Jus d'orange,1,3.5
+633,2026-02-20,Paris,Boisson fraîche,Jus d'orange,1,3.5
+788,2026-02-20,Lille,Thé,Thé à la menthe,4,3.5
+910,2026-02-20,Lyon,Boisson fraîche,Limonade,1,3.0
+950,2026-02-20,Lyon,Pâtisserie,Muffin,1,3.0
+1297,2026-02-20,Marseille,Boisson fraîche,Limonade,1,3.0
+1309,2026-02-20,Paris,Boisson fraîche,Jus d'orange,6,3.5
+16,2026-02-21,Paris,Thé,Thé vert,6,3.0
+511,2026-02-21,Paris,Boisson fraîche,Jus d'orange,1,3.5
+1100,2026-02-21,Marseille,Café,Espresso,1,2.0
+179,2026-02-22,Paris,Viennoiserie,Pain au chocolat,2,1.5
+527,2026-02-22,Marseille,Thé,Thé vert,1,3.0
+802,2026-02-22,Lyon,Thé,Thé vert,1,3.0
+1227,2026-02-22,Lyon,Viennoiserie,Pain au chocolat,2,1.5
+1349,2026-02-22,Lyon,Café,Latte,2,4.0
+1399,2026-02-22,Paris,Thé,Thé à la menthe,3,3.5
+1490,2026-02-22,Paris,Boisson fraîche,Limonade,4,3.0
+503,2026-02-23,Lyon,Pâtisserie,Cookie,4,2.5
+653,2026-02-23,Paris,Café,Cappuccino,6,3.5
+844,2026-02-23,Marseille,Thé,Thé à la menthe,6,3.5
+856,2026-02-23,Lille,Pâtisserie,Cheesecake,2,4.5
+1061,2026-02-23,Marseille,Thé,Thé vert,6,3.0
+1183,2026-02-23,Paris,Pâtisserie,Cheesecake,1,4.5
+1215,2026-02-23,Marseille,Thé,Thé à la menthe,4,3.5
+1370,2026-02-23,Lyon,Pâtisserie,Muffin,1,3.0
+89,2026-02-24,Paris,Boisson fraîche,Jus d'orange,4,3.5
+89,2026-02-24,Paris,Boisson fraîche,Jus d'orange,4,3.5
+315,2026-02-24,Lille,Pâtisserie,Cookie,2,2.5
+563,2026-02-24,Paris,Viennoiserie,Pain au chocolat,3,1.5
+878,2026-02-24,Marseille,Thé,Thé vert,4,3.0
+1167,2026-02-24,Lyon,Pâtisserie,Cheesecake,1,4.5
+1327,2026-02-24,Lyon,Boisson fraîche,Jus d'orange,3,3.5
+1363,2026-02-24,Marseille,Viennoiserie,Croissant,4,1.3
+1406,2026-02-24,Paris,Boisson fraîche,Limonade,2,3.0
+150,2026-02-25,Lyon,Boisson fraîche,Limonade,1,3.0
+217,2026-02-25,Paris,Thé,Thé à la menthe,6,3.5
+350,2026-02-25,Paris,Thé,Thé à la menthe,4,3.5
+469,2026-02-25,Lyon,Pâtisserie,Cheesecake,2,4.5
+819,2026-02-25,Paris,Thé,Thé vert,1,3.0
+983,2026-02-25,Marseille,Thé,Thé vert,3,3.0
+1072,2026-02-25,Lille,Boisson fraîche,Limonade,1,3.0
+1335,2026-02-25,Lyon,Viennoiserie,Chausson aux pommes,2,2.2
+304,2026-02-26,Paris,Viennoiserie,Pain au chocolat,3,1.5
+373,2026-02-26,Lyon,Thé,Thé à la menthe,6,3.5
+384,2026-02-26,Marseille,Pâtisserie,Muffin,6,3.0
+949,2026-02-26,Paris,Café,Espresso,4,2.0
+1081,2026-02-26,Paris,Café,Cappuccino,1,3.5
+1449,2026-02-26,Lyon,Pâtisserie,Muffin,1,3.0
+1497,2026-02-26,Paris,Boisson fraîche,Limonade,3,3.0
+257,2026-02-27,Lille,Boisson fraîche,Limonade,1,3.0
+290,2026-02-27,Marseille,Pâtisserie,Cookie,1,2.5
+1146,2026-02-27,Marseille,Viennoiserie,Croissant,2,1.3
+1460,2026-02-27,Lyon,Pâtisserie,Muffin,4,3.0
+1291,2026-02-28,Lyon,Boisson fraîche,Limonade,2,3.0
+1436,2026-02-28,Lyon,Boisson fraîche,Limonade,2,3.0
+66,2026-03-01,Lyon,Viennoiserie,Pain au chocolat,2,1.5
+205,2026-03-01,Marseille,Boisson fraîche,Jus d'orange,4,3.5
+297,2026-03-01,Paris,Thé,Thé à la menthe,1,3.5
+297,2026-03-01,Paris,Thé,Thé à la menthe,1,3.5
+387,2026-03-01,Lyon,Viennoiserie,Croissant,4,1.3
+501,2026-03-01,Marseille,Café,Latte,6,4.0
+700,2026-03-01,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+759,2026-03-01,Lyon,Pâtisserie,Muffin,1,3.0
+1052,2026-03-01,Marseille,Café,Espresso,1,2.0
+1066,2026-03-01,Marseille,Café,Espresso,6,2.0
+1095,2026-03-01,Paris,Boisson fraîche,Jus d'orange,6,3.5
+1122,2026-03-01,Paris,Pâtisserie,Muffin,2,3.0
+1127,2026-03-01,Paris,Pâtisserie,Cookie,6,2.5
+1445,2026-03-01,Marseille,Thé,Thé vert,4,3.0
+308,2026-03-02,Lyon,Café,Cappuccino,3,3.5
+435,2026-03-02,Lyon,Viennoiserie,Croissant,1,1.3
+907,2026-03-02,Paris,Café,Latte,4,4.0
+937,2026-03-02,Paris,Pâtisserie,Cookie,1,2.5
+966,2026-03-02,Marseille,Pâtisserie,Cookie,2,2.5
+995,2026-03-02,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+1416,2026-03-02,Paris,Pâtisserie,Cheesecake,1,4.5
+1472,2026-03-02,Marseille,Viennoiserie,Pain au chocolat,6,1.5
+59,2026-03-03,Marseille,Thé,Thé vert,1,3.0
+143,2026-03-03,Paris,Pâtisserie,Cheesecake,2,4.5
+604,2026-03-03,Marseille,Viennoiserie,Chausson aux pommes,2,2.2
+917,2026-03-03,Paris,Boisson fraîche,Jus d'orange,3,3.5
+1149,2026-03-03,Paris,Viennoiserie,Chausson aux pommes,2,2.2
+1270,2026-03-03,Paris,Pâtisserie,Muffin,1,3.0
+1424,2026-03-03,Marseille,Boisson fraîche,Limonade,2,3.0
+1485,2026-03-03,Lyon,Boisson fraîche,Jus d'orange,1,3.5
+160,2026-03-04,Paris,Pâtisserie,Muffin,1,3.0
+171,2026-03-04,Lyon,Thé,Thé à la menthe,1,3.5
+189,2026-03-04,Lyon,Pâtisserie,Muffin,1,3.0
+249,2026-03-04,Lyon,Thé,Thé à la menthe,2,3.5
+707,2026-03-04,Lille,Viennoiserie,Pain au chocolat,1,1.5
+1071,2026-03-04,Lyon,Viennoiserie,Chausson aux pommes,4,2.2
+1185,2026-03-04,Marseille,Café,Latte,2,4.0
+1198,2026-03-04,Lille,Café,Cappuccino,3,3.5
+1241,2026-03-04,Paris,Café,Espresso,2,2.0
+337,2026-03-05,Marseille,Boisson fraîche,Limonade,1,3.0
+383,2026-03-05,Paris,Boisson fraîche,Jus d'orange,2,3.5
+515,2026-03-05,Paris,Café,Cappuccino,1,3.5
+736,2026-03-05,Lyon,Pâtisserie,Muffin,1,3.0
+1203,2026-03-05,Paris,Thé,Thé vert,4,3.0
+1213,2026-03-05,Paris,Pâtisserie,Muffin,2,3.0
+1358,2026-03-05,Lyon,Thé,Thé vert,6,3.0
+1434,2026-03-05,Marseille,Pâtisserie,Cheesecake,1,4.5
+5,2026-03-06,Paris,Viennoiserie,Pain au chocolat,1,1.5
+173,2026-03-06,Paris,Boisson fraîche,Limonade,1,3.0
+177,2026-03-06,Lyon,Boisson fraîche,Limonade,6,3.0
+206,2026-03-06,Paris,Boisson fraîche,Limonade,6,3.0
+233,2026-03-06,Lyon,Pâtisserie,Muffin,2,3.0
+242,2026-03-06,Lyon,Boisson fraîche,Limonade,3,3.0
+487,2026-03-06,Lyon,Boisson fraîche,Limonade,1,3.0
+733,2026-03-06,Lille,Thé,Thé à la menthe,2,3.5
+800,2026-03-06,Paris,Boisson fraîche,Limonade,1,3.0
+817,2026-03-06,Lyon,Pâtisserie,Cookie,6,2.5
+859,2026-03-06,Lyon,Pâtisserie,Cookie,4,2.5
+1210,2026-03-06,Marseille,Café,Latte,1,4.0
+105,2026-03-07,Lyon,Viennoiserie,Pain au chocolat,1,1.5
+136,2026-03-07,Lille,Café,Cappuccino,6,3.5
+153,2026-03-07,Paris,Café,Espresso,1,2.0
+323,2026-03-07,Marseille,Pâtisserie,Muffin,4,3.0
+730,2026-03-07,Paris,Boisson fraîche,Jus d'orange,4,3.5
+1366,2026-03-07,Paris,Thé,Thé vert,4,3.0
+1377,2026-03-07,Paris,Boisson fraîche,Jus d'orange,4,3.5
+1425,2026-03-07,Paris,Café,Latte,1,4.0
+216,2026-03-08,Lyon,Viennoiserie,Croissant,2,1.3
+285,2026-03-08,Lyon,Viennoiserie,Croissant,4,1.3
+358,2026-03-08,Paris,Café,Espresso,2,2.0
+659,2026-03-08,Lyon,Pâtisserie,Cookie,1,2.5
+706,2026-03-08,Lyon,Viennoiserie,Croissant,6,1.3
+765,2026-03-08,Paris,Viennoiserie,Croissant,3,1.3
+1012,2026-03-08,Lyon,Viennoiserie,Chausson aux pommes,2,2.2
+1107,2026-03-08,Lyon,Thé,Thé vert,4,3.0
+1387,2026-03-08,Lyon,Café,Latte,2,4.0
+1448,2026-03-08,Lyon,Pâtisserie,Cheesecake,3,4.5
+45,2026-03-09,Paris,Pâtisserie,Cookie,1,2.5
+62,2026-03-09,Lille,Thé,Thé vert,1,3.0
+82,2026-03-09,Lyon,Café,Cappuccino,6,3.5
+255,2026-03-09,Marseille,Thé,Thé à la menthe,1,3.5
+439,2026-03-09,Paris,Viennoiserie,Pain au chocolat,3,1.5
+1119,2026-03-09,Lyon,Pâtisserie,Cheesecake,4,4.5
+1173,2026-03-09,Marseille,Pâtisserie,Cookie,1,2.5
+1232,2026-03-09,Lyon,Thé,Thé vert,,3.0
+1482,2026-03-09,Lille,Viennoiserie,Croissant,4,1.3
+90,2026-03-10,Paris,Café,Cappuccino,2,3.5
+237,2026-03-10,Lyon,Café,Espresso,2,2.0
+265,2026-03-10,Marseille,Pâtisserie,Cookie,1,2.5
+289,2026-03-10,Paris,Thé,Thé à la menthe,2,3.5
+462,2026-03-10,Lille,Boisson fraîche,Limonade,2,3.0
+883,2026-03-10,Marseille,Viennoiserie,Croissant,6,1.3
+1059,2026-03-10,Paris,Pâtisserie,Cookie,3,2.5
+1067,2026-03-10,Paris,Thé,Thé à la menthe,3,3.5
+1139,2026-03-10,Lyon,Viennoiserie,Chausson aux pommes,1,2.2
+1444,2026-03-10,Paris,Viennoiserie,Chausson aux pommes,4,2.2
+313,2026-03-11,Lyon,Thé,Thé à la menthe,1,3.5
+524,2026-03-11,Marseille,Pâtisserie,Cheesecake,1,4.5
+972,2026-03-11,Lille,Viennoiserie,Chausson aux pommes,3,2.2
+1229,2026-03-11,Lyon,Thé,Thé vert,4,3.0
+1272,2026-03-11,Paris,Pâtisserie,Muffin,2,3.0
+1372,2026-03-11,Paris,Café,Cappuccino,1,3.5
+176,2026-03-12,Lyon,Pâtisserie,Cheesecake,2,4.5
+236,2026-03-12,Lyon,Café,Cappuccino,1,3.5
+258,2026-03-12,Marseille,Viennoiserie,Chausson aux pommes,1,2.2
+343,2026-03-12,Marseille,Thé,Thé vert,6,3.0
+454,2026-03-12,Marseille,Thé,Thé vert,3,3.0
+1020,2026-03-12,Paris,Thé,Thé vert,1,3.0
+1041,2026-03-12,Paris,Boisson fraîche,Jus d'orange,2,3.5
+1267,2026-03-12,Lyon,Thé,Thé vert,6,3.0
+1283,2026-03-12,Marseille,Thé,Thé vert,2,3.0
+1429,2026-03-12,Paris,Thé,Thé à la menthe,2,3.5
+264,2026-03-13,Lyon,Boisson fraîche,Jus d'orange,1,3.5
+451,2026-03-13,Paris,Pâtisserie,Muffin,2,3.0
+680,2026-03-13,Paris,Boisson fraîche,Jus d'orange,6,3.5
+704,2026-03-13,Marseille,Thé,Thé vert,1,3.0
+773,2026-03-13,Lille,Boisson fraîche,Limonade,2,3.0
+930,2026-03-13,Lyon,Boisson fraîche,Jus d'orange,6,3.5
+1001,2026-03-13,Paris,Pâtisserie,Cookie,2,2.5
+1382,2026-03-13,Paris,Boisson fraîche,Jus d'orange,1,3.5
+615,2026-03-14,Lille,Boisson fraîche,Limonade,1,3.0
+804,2026-03-14,Lille,Viennoiserie,Pain au chocolat,4,1.5
+320,2026-03-15,Marseille,Boisson fraîche,Limonade,2,3.0
+367,2026-03-15,Lille,Viennoiserie,Pain au chocolat,1,1.5
+550,2026-03-15,Paris,Thé,Thé à la menthe,6,3.5
+585,2026-03-15,Marseille,Pâtisserie,Muffin,3,3.0
+1027,2026-03-15,Paris,Thé,Thé vert,1,3.0
+1113,2026-03-15,Paris,Café,Cappuccino,4,3.5
+1393,2026-03-15,Marseille,Pâtisserie,Muffin,6,3.0
+19,2026-03-16,Paris,Café,Cappuccino,2,3.5
+207,2026-03-16,Lyon,Viennoiserie,Croissant,6,1.3
+319,2026-03-16,Marseille,Viennoiserie,Pain au chocolat,1,1.5
+399,2026-03-16,Lyon,Thé,Thé à la menthe,6,3.5
+485,2026-03-16,Lyon,Thé,Thé vert,2,3.0
+493,2026-03-16,Lyon,Boisson fraîche,Limonade,4,3.0
+812,2026-03-16,Paris,Pâtisserie,Cheesecake,4,4.5
+942,2026-03-16,Lille,Boisson fraîche,Limonade,1,3.0
+1285,2026-03-16,Paris,Café,Espresso,1,2.0
+1364,2026-03-16,Lyon,Viennoiserie,Chausson aux pommes,4,2.2
+93,2026-03-17,Lyon,Pâtisserie,Muffin,1,3.0
+138,2026-03-17,Paris,Boisson fraîche,Jus d'orange,1,3.5
+178,2026-03-17,Lille,Thé,Thé vert,1,3.0
+357,2026-03-17,Paris,Pâtisserie,Cookie,4,2.5
+927,2026-03-17,Marseille,Pâtisserie,Cookie,2,2.5
+954,2026-03-17,Lyon,Viennoiserie,Chausson aux pommes,1,2.2
+1047,2026-03-17,Marseille,Viennoiserie,Croissant,4,1.3
+1239,2026-03-17,Lyon,Thé,Thé vert,2,3.0
+1475,2026-03-17,Paris,Thé,Thé à la menthe,1,3.5
+1479,2026-03-17,Lyon,Pâtisserie,Cookie,1,2.5
+1486,2026-03-17,Lyon,Boisson fraîche,Limonade,2,3.0
+118,2026-03-18,Lille,Thé,Thé vert,2,3.0
+121,2026-03-18,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+239,2026-03-18,Paris,Café,Espresso,2,2.0
+418,2026-03-18,Marseille,Thé,Thé à la menthe,1,3.5
+490,2026-03-18,Paris,Thé,Thé à la menthe,1,3.5
+498,2026-03-18,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+714,2026-03-18,Lyon,Pâtisserie,Cheesecake,1,4.5
+1332,2026-03-18,Paris,Viennoiserie,Croissant,4,1.3
+1394,2026-03-18,Paris,Thé,Thé vert,6,3.0
+1470,2026-03-18,Lyon,Boisson fraîche,Jus d'orange,3,3.5
+80,2026-03-19,Paris,Thé,Thé vert,1,3.0
+108,2026-03-19,Paris,Café,Cappuccino,1,3.5
+529,2026-03-19,Paris,Café,Cappuccino,2,3.5
+620,2026-03-19,Paris,Thé,Thé vert,1,3.0
+651,2026-03-19,Paris,Pâtisserie,Cheesecake,2,4.5
+855,2026-03-19,Marseille,Café,Latte,3,4.0
+887,2026-03-19,Marseille,Pâtisserie,Cheesecake,1,4.5
+1043,2026-03-19,Lille,Thé,Thé vert,3,3.0
+413,2026-03-20,Lille,Thé,Thé vert,2,3.0
+85,2026-03-21,Paris,Thé,Thé vert,3,3.0
+128,2026-03-21,Lyon,Pâtisserie,Cheesecake,6,4.5
+276,2026-03-21,Paris,Thé,Thé à la menthe,1,3.5
+695,2026-03-21,Marseille,Café,Cappuccino,4,3.5
+815,2026-03-21,Lyon,Boisson fraîche,Jus d'orange,6,3.5
+1121,2026-03-21,Lyon,Café,Latte,1,4.0
+410,2026-03-22,Marseille,Viennoiserie,Croissant,3,1.3
+445,2026-03-22,Lyon,Pâtisserie,Cookie,3,2.5
+492,2026-03-22,Paris,Café,Latte,1,4.0
+711,2026-03-22,Paris,Thé,Thé à la menthe,2,3.5
+797,2026-03-22,Paris,Thé,Thé à la menthe,1,3.5
+1000,2026-03-22,Paris,Pâtisserie,Muffin,6,3.0
+1019,2026-03-22,Paris,Café,Cappuccino,3,3.5
+1427,2026-03-22,Marseille,Thé,Thé vert,2,3.0
+111,2026-03-23,Lyon,Viennoiserie,Croissant,1,1.3
+718,2026-03-23,Marseille,Viennoiserie,Chausson aux pommes,2,2.2
+881,2026-03-23,Lille,Boisson fraîche,Jus d'orange,6,3.5
+902,2026-03-23,Paris,Pâtisserie,Muffin,2,3.0
+904,2026-03-23,Paris,Boisson fraîche,Limonade,1,3.0
+1308,2026-03-23,Lyon,Café,Latte,2,4.0
+1407,2026-03-23,Marseille,Café,Cappuccino,2,3.5
+1454,2026-03-23,Paris,Boisson fraîche,Limonade,1,3.0
+619,2026-03-24,Paris,Café,Espresso,3,2.0
+663,2026-03-24,Paris,Thé,Thé vert,1,3.0
+682,2026-03-24,Lyon,Café,Cappuccino,1,3.5
+698,2026-03-24,Lyon,Boisson fraîche,Limonade,2,3.0
+739,2026-03-24,Paris,Boisson fraîche,Limonade,1,3.0
+863,2026-03-24,Marseille,Café,Cappuccino,6,3.5
+378,2026-03-25,Paris,Viennoiserie,Pain au chocolat,4,1.5
+405,2026-03-25,Lyon,Café,Cappuccino,1,3.5
+431,2026-03-25,Lille,Viennoiserie,Pain au chocolat,1,1.5
+438,2026-03-25,Paris,Viennoiserie,Pain au chocolat,2,1.5
+673,2026-03-25,Marseille,Pâtisserie,Cheesecake,1,4.5
+685,2026-03-25,Marseille,Boisson fraîche,Limonade,1,3.0
+811,2026-03-25,Lyon,Café,Cappuccino,1,3.5
+1050,2026-03-25,Lyon,Café,Cappuccino,4,3.5
+1237,2026-03-25,Lyon,Viennoiserie,Chausson aux pommes,1,2.2
+92,2026-03-26,Lille,Boisson fraîche,Jus d'orange,2,3.5
+361,2026-03-26,Marseille,Café,Espresso,6,2.0
+468,2026-03-26,Lille,Pâtisserie,Muffin,2,3.0
+552,2026-03-26,Paris,Café,Espresso,1,2.0
+690,2026-03-26,Paris,Pâtisserie,Cookie,1,2.5
+1028,2026-03-26,Paris,Pâtisserie,Cookie,2,2.5
+1099,2026-03-26,Lyon,Pâtisserie,Muffin,2,3.0
+1249,2026-03-26,Lille,Viennoiserie,Croissant,1,1.3
+1360,2026-03-26,Paris,Boisson fraîche,Limonade,1,3.0
+376,2026-03-27,Lyon,Boisson fraîche,Jus d'orange,4,3.5
+467,2026-03-27,Paris,Pâtisserie,Muffin,1,3.0
+575,2026-03-27,Paris,Thé,Thé vert,3,3.0
+622,2026-03-27,Lyon,Thé,Thé vert,2,3.0
+631,2026-03-27,Lille,Viennoiserie,Chausson aux pommes,4,2.2
+689,2026-03-27,Lyon,Thé,Thé à la menthe,1,3.5
+724,2026-03-27,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+771,2026-03-27,Paris,Thé,Thé à la menthe,3,3.5
+1017,2026-03-27,Paris,Café,Cappuccino,2,3.5
+1065,2026-03-27,Lyon,Viennoiserie,Chausson aux pommes,1,2.2
+1170,2026-03-27,Paris,Viennoiserie,Croissant,1,1.3
+1182,2026-03-27,Lille,Viennoiserie,Croissant,4,1.3
+1362,2026-03-27,Paris,Viennoiserie,Croissant,2,1.3
+333,2026-03-28,Lyon,Boisson fraîche,Limonade,3,3.0
+712,2026-03-28,Paris,Thé,Thé à la menthe,2,3.5
+840,2026-03-28,Marseille,Pâtisserie,Cookie,1,2.5
+882,2026-03-28,Lyon,Boisson fraîche,Jus d'orange,1,3.5
+1045,2026-03-28,Marseille,Boisson fraîche,Limonade,3,3.0
+1331,2026-03-28,Lille,Viennoiserie,Croissant,1,1.3
+6,2026-03-29,Paris,Boisson fraîche,Limonade,2,3.0
+170,2026-03-29,Lille,Thé,Thé à la menthe,1,3.5
+230,2026-03-29,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+436,2026-03-29,Marseille,Boisson fraîche,Jus d'orange,4,3.5
+573,2026-03-29,Lyon,Viennoiserie,Chausson aux pommes,1,2.2
+888,2026-03-29,Paris,Thé,Thé vert,6,3.0
+1165,2026-03-29,Marseille,Thé,Thé vert,2,3.0
+1190,2026-03-29,Lyon,Boisson fraîche,Limonade,1,3.0
+1415,2026-03-29,Lyon,Thé,Thé vert,4,3.0
+137,2026-03-30,Lyon,Boisson fraîche,Jus d'orange,2,3.5
+555,2026-03-30,Marseille,Pâtisserie,Cheesecake,1,4.5
+810,2026-03-30,Paris,Viennoiserie,Croissant,6,1.3
+926,2026-03-30,Paris,Café,Espresso,1,2.0
+1142,2026-03-30,Paris,Thé,Thé vert,1,3.0
+1295,2026-03-30,Lille,Pâtisserie,Muffin,1,3.0
+1329,2026-03-30,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+187,2026-03-31,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+370,2026-03-31,Paris,Café,Latte,1,4.0
+539,2026-03-31,Lyon,Viennoiserie,Chausson aux pommes,1,2.2
+780,2026-03-31,Lille,Viennoiserie,Croissant,1,1.3
+807,2026-03-31,Lyon,Viennoiserie,Croissant,1,1.3
+989,2026-03-31,Marseille,Viennoiserie,Chausson aux pommes,3,2.2
+1151,2026-03-31,Paris,Café,Espresso,3,2.0
+1442,2026-03-31,Paris,Café,Espresso,1,2.0
+42,2026-04-01,Marseille,Viennoiserie,Chausson aux pommes,2,2.2
+124,2026-04-01,Lyon,Viennoiserie,Pain au chocolat,1,1.5
+130,2026-04-01,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+407,2026-04-01,Lyon,Café,Espresso,1,2.0
+879,2026-04-01,Lille,Viennoiserie,Pain au chocolat,,1.5
+1264,2026-04-01,Lyon,Pâtisserie,Muffin,1,3.0
+213,2026-04-02,Lyon,Viennoiserie,Pain au chocolat,6,1.5
+426,2026-04-02,Lille,Boisson fraîche,Jus d'orange,1,3.5
+486,2026-04-02,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+583,2026-04-02,Paris,Pâtisserie,Muffin,1,3.0
+652,2026-04-02,Lyon,Boisson fraîche,Limonade,4,3.0
+766,2026-04-02,Paris,Pâtisserie,Cheesecake,2,4.5
+933,2026-04-02,Lyon,Pâtisserie,Muffin,6,3.0
+947,2026-04-02,Paris,Boisson fraîche,Limonade,2,3.0
+1040,2026-04-02,Lille,Café,Latte,4,4.0
+1235,2026-04-02,Lyon,Pâtisserie,Muffin,1,3.0
+1322,2026-04-02,Lille,Viennoiserie,Croissant,6,1.3
+870,2026-04-03,Paris,Café,Cappuccino,1,3.5
+1039,2026-04-03,Marseille,Café,Cappuccino,3,3.5
+1207,2026-04-03,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+1316,2026-04-03,Lyon,Pâtisserie,Cookie,1,2.5
+1378,2026-04-03,Lille,Boisson fraîche,Jus d'orange,1,3.5
+1392,2026-04-03,Marseille,Pâtisserie,Cookie,4,2.5
+1438,2026-04-03,Paris,Pâtisserie,Cheesecake,2,4.5
+1447,2026-04-03,Paris,Pâtisserie,Muffin,1,3.0
+1495,2026-04-03,Paris,Boisson fraîche,Jus d'orange,3,3.5
+368,2026-04-04,Paris,Viennoiserie,Pain au chocolat,3,1.5
+444,2026-04-04,Paris,Pâtisserie,Cheesecake,1,4.5
+805,2026-04-04,Lyon,Boisson fraîche,Limonade,2,3.0
+8,2026-04-05,Paris,Pâtisserie,Cookie,4,2.5
+222,2026-04-05,Lyon,Pâtisserie,Cookie,1,2.5
+377,2026-04-05,Paris,Viennoiserie,Pain au chocolat,1,1.5
+569,2026-04-05,Paris,Thé,Thé à la menthe,1,3.5
+727,2026-04-05,Lyon,Viennoiserie,Chausson aux pommes,2,2.2
+784,2026-04-05,Marseille,Viennoiserie,Pain au chocolat,1,1.5
+1024,2026-04-05,Paris,Pâtisserie,Muffin,4,3.0
+1030,2026-04-05,Paris,Boisson fraîche,Limonade,1,3.0
+1036,2026-04-05,Paris,Café,Latte,6,4.0
+1117,2026-04-05,Marseille,Café,Espresso,4,2.0
+1188,2026-04-05,Paris,Viennoiserie,Pain au chocolat,1,1.5
+1439,2026-04-05,Lille,Café,Cappuccino,3,3.5
+67,2026-04-06,Paris,Pâtisserie,Cheesecake,6,4.5
+316,2026-04-06,Marseille,Café,Latte,1,4.0
+359,2026-04-06,Lyon,Viennoiserie,Pain au chocolat,1,1.5
+703,2026-04-06,Lille,Viennoiserie,Pain au chocolat,2,1.5
+876,2026-04-06,Lyon,Pâtisserie,Cheesecake,2,4.5
+1046,2026-04-06,Paris,Thé,Thé vert,1,3.0
+1108,2026-04-06,Lyon,Boisson fraîche,Limonade,3,3.0
+1166,2026-04-06,Lyon,Thé,Thé vert,3,3.0
+1266,2026-04-06,Marseille,Thé,Thé vert,,3.0
+135,2026-04-07,Lyon,Boisson fraîche,Jus d'orange,3,3.5
+577,2026-04-07,Lille,Viennoiserie,Pain au chocolat,2,1.5
+593,2026-04-07,Lyon,Thé,Thé vert,1,3.0
+842,2026-04-07,Paris,Thé,Thé à la menthe,2,3.5
+948,2026-04-07,Paris,Boisson fraîche,Jus d'orange,2,3.5
+1150,2026-04-07,Paris,Café,Espresso,2,2.0
+1179,2026-04-07,Paris,Café,Cappuccino,4,3.5
+1303,2026-04-07,Lille,Pâtisserie,Cheesecake,2,4.5
+1404,2026-04-07,Lyon,Thé,Thé vert,1,3.0
+174,2026-04-08,Lyon,Café,Cappuccino,1,3.5
+602,2026-04-08,Lille,Boisson fraîche,Limonade,1,3.0
+861,2026-04-08,Paris,Café,Cappuccino,1,3.5
+1073,2026-04-08,Paris,Thé,Thé à la menthe,1,3.5
+1168,2026-04-08,Lille,Café,Espresso,2,2.0
+1258,2026-04-08,Lyon,Viennoiserie,Chausson aux pommes,6,2.2
+1282,2026-04-08,Marseille,Thé,Thé vert,4,3.0
+1337,2026-04-08,Lyon,Boisson fraîche,Jus d'orange,1,3.5
+1375,2026-04-08,Paris,Viennoiserie,Croissant,,1.3
+298,2026-04-09,Lyon,Pâtisserie,Cheesecake,2,4.5
+385,2026-04-09,Paris,Boisson fraîche,Limonade,1,3.0
+408,2026-04-09,Lyon,Boisson fraîche,Jus d'orange,2,3.5
+903,2026-04-09,Paris,Café,Espresso,3,2.0
+943,2026-04-09,Lille,Café,Latte,1,4.0
+1034,2026-04-09,Marseille,Boisson fraîche,Jus d'orange,6,3.5
+1098,2026-04-09,Lyon,Café,Cappuccino,1,3.5
+1148,2026-04-09,Lyon,Café,Espresso,1,2.0
+1180,2026-04-09,Lyon,Pâtisserie,Cheesecake,6,4.5
+53,2026-04-10,Paris,Viennoiserie,Croissant,4,1.3
+496,2026-04-10,Marseille,Viennoiserie,Chausson aux pommes,1,2.2
+605,2026-04-10,Marseille,Pâtisserie,Cookie,4,2.5
+1010,2026-04-10,Marseille,Thé,Thé vert,4,3.0
+1058,2026-04-10,Marseille,Boisson fraîche,Jus d'orange,4,3.5
+1197,2026-04-10,Paris,Viennoiserie,Pain au chocolat,2,1.5
+1388,2026-04-10,Lille,Pâtisserie,Muffin,6,3.0
+1462,2026-04-10,Paris,Pâtisserie,Cookie,3,2.5
+266,2026-04-11,Lille,Boisson fraîche,Limonade,4,3.0
+401,2026-04-11,Lille,Viennoiserie,Pain au chocolat,6,1.5
+562,2026-04-11,Paris,Pâtisserie,Muffin,1,3.0
+586,2026-04-11,Paris,Thé,Thé à la menthe,4,3.5
+899,2026-04-11,Paris,Boisson fraîche,Limonade,6,3.0
+915,2026-04-11,Marseille,Viennoiserie,Pain au chocolat,,1.5
+920,2026-04-11,Lyon,Café,Cappuccino,1,3.5
+1314,2026-04-11,Lille,Viennoiserie,Chausson aux pommes,2,2.2
+1432,2026-04-11,Paris,Viennoiserie,Pain au chocolat,2,1.5
+10,2026-04-12,Lille,Viennoiserie,Pain au chocolat,6,1.5
+286,2026-04-12,Lille,Thé,Thé à la menthe,1,3.5
+287,2026-04-12,Lyon,Boisson fraîche,Jus d'orange,3,3.5
+617,2026-04-12,Lyon,Boisson fraîche,Jus d'orange,1,3.5
+1051,2026-04-12,Paris,Boisson fraîche,Limonade,2,3.0
+1395,2026-04-12,Marseille,Thé,Thé vert,1,3.0
+144,2026-04-13,Paris,Viennoiserie,Pain au chocolat,1,1.5
+330,2026-04-13,Marseille,Viennoiserie,Croissant,2,1.3
+1003,2026-04-13,Lille,Thé,Thé vert,1,3.0
+1369,2026-04-13,Marseille,Pâtisserie,Cheesecake,1,4.5
+1420,2026-04-13,Lille,Viennoiserie,Pain au chocolat,2,1.5
+1423,2026-04-13,Paris,Pâtisserie,Cheesecake,1,4.5
+51,2026-04-14,Paris,Thé,Thé à la menthe,4,3.5
+87,2026-04-14,Paris,Thé,Thé à la menthe,2,3.5
+412,2026-04-14,Lyon,Viennoiserie,Pain au chocolat,1,1.5
+694,2026-04-14,Lyon,Pâtisserie,Cheesecake,4,4.5
+1004,2026-04-14,Paris,Boisson fraîche,Limonade,2,3.0
+1075,2026-04-14,Paris,Thé,Thé à la menthe,2,3.5
+1242,2026-04-14,Marseille,Pâtisserie,Cheesecake,2,4.5
+200,2026-04-15,Paris,Café,Cappuccino,2,3.5
+764,2026-04-15,Paris,Boisson fraîche,Jus d'orange,1,3.5
+836,2026-04-15,Paris,Thé,Thé vert,6,3.0
+836,2026-04-15,Paris,Thé,Thé vert,6,3.0
+1339,2026-04-15,Lyon,Pâtisserie,Muffin,2,3.0
+1398,2026-04-15,Lyon,Viennoiserie,Croissant,2,1.3
+596,2026-04-16,Lille,Café,Cappuccino,2,3.5
+601,2026-04-16,Marseille,Thé,Thé à la menthe,4,3.5
+720,2026-04-16,Lyon,Thé,Thé à la menthe,2,3.5
+1013,2026-04-16,Lille,Café,Espresso,1,2.0
+1014,2026-04-16,Lyon,Café,Latte,2,4.0
+1133,2026-04-16,Paris,Viennoiserie,Croissant,4,1.3
+1136,2026-04-16,Paris,Viennoiserie,Pain au chocolat,1,1.5
+1244,2026-04-16,Lille,Boisson fraîche,Limonade,1,3.0
+1257,2026-04-16,Paris,Café,Espresso,1,2.0
+1352,2026-04-16,Paris,Thé,Thé à la menthe,1,3.5
+1465,2026-04-16,Marseille,Viennoiserie,Chausson aux pommes,2,2.2
+55,2026-04-17,Paris,Café,Latte,3,4.0
+193,2026-04-17,Paris,Viennoiserie,Croissant,1,1.3
+223,2026-04-17,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+1033,2026-04-17,Lyon,Pâtisserie,Cheesecake,2,4.5
+1132,2026-04-17,Paris,Viennoiserie,Croissant,3,1.3
+1191,2026-04-17,Paris,Viennoiserie,Croissant,2,1.3
+1390,2026-04-17,Paris,Boisson fraîche,Limonade,6,3.0
+1450,2026-04-17,Lyon,Café,Cappuccino,1,3.5
+1480,2026-04-17,Lyon,Viennoiserie,Croissant,1,1.3
+188,2026-04-18,Lyon,Pâtisserie,Cheesecake,3,4.5
+452,2026-04-18,Lyon,Café,Cappuccino,,3.5
+597,2026-04-18,Paris,Viennoiserie,Croissant,3,1.3
+831,2026-04-18,Lyon,Viennoiserie,Croissant,3,1.3
+1060,2026-04-18,Lille,Thé,Thé vert,3,3.0
+1435,2026-04-18,Paris,Café,Latte,6,4.0
+127,2026-04-19,Lyon,Viennoiserie,Chausson aux pommes,2,2.2
+201,2026-04-19,Paris,Thé,Thé vert,1,3.0
+253,2026-04-19,Marseille,Boisson fraîche,Limonade,2,3.0
+470,2026-04-19,Lille,Pâtisserie,Cheesecake,2,4.5
+502,2026-04-19,Marseille,Viennoiserie,Croissant,2,1.3
+607,2026-04-19,Paris,Pâtisserie,Cookie,3,2.5
+1135,2026-04-19,Paris,Thé,Thé à la menthe,2,3.5
+1156,2026-04-19,Paris,Café,Cappuccino,1,3.5
+1224,2026-04-19,Lyon,Thé,Thé à la menthe,4,3.5
+1417,2026-04-19,Marseille,Viennoiserie,Pain au chocolat,1,1.5
+327,2026-04-20,Paris,Thé,Thé vert,2,3.0
+429,2026-04-20,Paris,Viennoiserie,Croissant,2,1.3
+482,2026-04-20,Lyon,Café,Cappuccino,6,3.5
+796,2026-04-20,Paris,Thé,Thé vert,2,3.0
+909,2026-04-20,Paris,Boisson fraîche,Limonade,1,3.0
+1016,2026-04-20,Marseille,Café,Cappuccino,3,3.5
+1178,2026-04-20,Paris,Café,Cappuccino,2,3.5
+1326,2026-04-20,Lyon,Café,Cappuccino,1,3.5
+86,2026-04-21,Lyon,Viennoiserie,Pain au chocolat,6,1.5
+148,2026-04-21,Lille,Boisson fraîche,Jus d'orange,3,3.5
+277,2026-04-21,Lyon,Viennoiserie,Pain au chocolat,1,1.5
+512,2026-04-21,Paris,Viennoiserie,Pain au chocolat,6,1.5
+576,2026-04-21,Lyon,Boisson fraîche,Jus d'orange,2,3.5
+578,2026-04-21,Marseille,Pâtisserie,Cheesecake,3,4.5
+860,2026-04-21,Paris,Thé,Thé à la menthe,1,3.5
+1269,2026-04-21,Paris,Pâtisserie,Muffin,3,3.0
+1499,2026-04-21,Paris,Boisson fraîche,Jus d'orange,3,3.5
+32,2026-04-22,Lyon,Pâtisserie,Cheesecake,2,4.5
+240,2026-04-22,Paris,Thé,Thé vert,1,3.0
+671,2026-04-22,Marseille,Viennoiserie,Croissant,2,1.3
+818,2026-04-22,Lille,Thé,Thé à la menthe,3,3.5
+825,2026-04-22,Marseille,Thé,Thé vert,1,3.0
+875,2026-04-22,Marseille,Pâtisserie,Cheesecake,6,4.5
+1062,2026-04-22,Marseille,Pâtisserie,Cookie,2,2.5
+1419,2026-04-22,Lyon,Viennoiserie,Chausson aux pommes,2,2.2
+161,2026-04-23,Marseille,Thé,Thé vert,2,3.0
+225,2026-04-23,Lyon,Thé,Thé vert,2,3.0
+279,2026-04-23,Paris,Café,Espresso,6,2.0
+344,2026-04-23,Paris,Pâtisserie,Muffin,2,3.0
+391,2026-04-23,Lyon,Pâtisserie,Cookie,2,2.5
+965,2026-04-23,Marseille,Boisson fraîche,Limonade,4,3.0
+996,2026-04-23,Paris,Pâtisserie,Cookie,3,2.5
+1223,2026-04-23,Paris,Thé,Thé à la menthe,1,3.5
+1354,2026-04-23,Lille,Viennoiserie,Pain au chocolat,4,1.5
+1408,2026-04-23,Lyon,Pâtisserie,Cookie,1,2.5
+91,2026-04-24,Paris,Boisson fraîche,Limonade,2,3.0
+184,2026-04-24,Lille,Pâtisserie,Cheesecake,1,4.5
+348,2026-04-24,Lyon,Boisson fraîche,Limonade,6,3.0
+404,2026-04-24,Paris,Thé,Thé vert,2,3.0
+838,2026-04-24,Lyon,Pâtisserie,Cookie,2,2.5
+1259,2026-04-24,Marseille,Viennoiserie,Croissant,1,1.3
+1276,2026-04-24,Paris,Viennoiserie,Pain au chocolat,6,1.5
+154,2026-04-25,Lyon,Café,Cappuccino,6,3.5
+272,2026-04-25,Marseille,Café,Cappuccino,4,3.5
+346,2026-04-25,Lyon,Café,Cappuccino,1,3.5
+450,2026-04-25,Lyon,Thé,Thé à la menthe,2,3.5
+459,2026-04-25,Lyon,Boisson fraîche,Jus d'orange,2,3.5
+522,2026-04-25,Lyon,Thé,Thé à la menthe,3,3.5
+1134,2026-04-25,Paris,Pâtisserie,Cheesecake,2,4.5
+1143,2026-04-25,Marseille,Thé,Thé à la menthe,1,3.5
+1208,2026-04-25,Paris,Pâtisserie,Cookie,1,2.5
+1218,2026-04-25,Paris,Boisson fraîche,Limonade,3,3.0
+1263,2026-04-25,Paris,Boisson fraîche,Limonade,4,3.0
+1325,2026-04-25,Paris,Pâtisserie,Muffin,4,3.0
+20,2026-04-26,Lille,Thé,Thé à la menthe,6,3.5
+271,2026-04-26,Paris,Café,Cappuccino,6,3.5
+509,2026-04-26,Paris,Boisson fraîche,Limonade,1,3.0
+532,2026-04-26,Marseille,Boisson fraîche,Limonade,1,3.0
+854,2026-04-26,Paris,Viennoiserie,Croissant,3,1.3
+1334,2026-04-26,Paris,Café,Espresso,2,2.0
+1353,2026-04-26,Paris,Pâtisserie,Cheesecake,2,4.5
+326,2026-04-27,Paris,Pâtisserie,Cookie,3,2.5
+464,2026-04-27,Marseille,Café,Espresso,2,2.0
+551,2026-04-27,Paris,Thé,Thé vert,4,3.0
+595,2026-04-27,Lyon,Viennoiserie,Croissant,1,1.3
+603,2026-04-27,Lille,Café,Espresso,3,2.0
+606,2026-04-27,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+865,2026-04-27,Lille,Pâtisserie,Cheesecake,3,4.5
+877,2026-04-27,Lyon,Café,Espresso,1,2.0
+1086,2026-04-27,Lyon,Pâtisserie,Cookie,3,2.5
+7,2026-04-28,Paris,Boisson fraîche,Limonade,1,3.0
+250,2026-04-28,Lille,Café,Espresso,1,2.0
+331,2026-04-28,Paris,Viennoiserie,Pain au chocolat,2,1.5
+565,2026-04-28,Lyon,Pâtisserie,Muffin,2,3.0
+670,2026-04-28,Marseille,Thé,Thé vert,2,3.0
+850,2026-04-28,Lyon,Viennoiserie,Croissant,4,1.3
+1029,2026-04-28,Paris,Pâtisserie,Muffin,4,3.0
+1083,2026-04-28,Paris,Boisson fraîche,Limonade,2,3.0
+1288,2026-04-28,Marseille,Pâtisserie,Cheesecake,1,4.5
+1330,2026-04-28,Lyon,Thé,Thé à la menthe,3,3.5
+1467,2026-04-28,Paris,Boisson fraîche,Limonade,1,3.0
+741,2026-04-29,Lyon,Boisson fraîche,Limonade,2,3.0
+922,2026-04-29,Lyon,Viennoiserie,Croissant,2,1.3
+1368,2026-04-29,Lyon,Pâtisserie,Cookie,1,2.5
+1469,2026-04-29,Paris,Boisson fraîche,Jus d'orange,2,3.5
+1489,2026-04-29,Lyon,Viennoiserie,Croissant,2,1.3
+18,2026-04-30,Lyon,Pâtisserie,Muffin,1,3.0
+31,2026-04-30,Lyon,Thé,Thé vert,2,3.0
+107,2026-04-30,Paris,Viennoiserie,Chausson aux pommes,4,2.2
+122,2026-04-30,Marseille,Pâtisserie,Cookie,3,2.5
+197,2026-04-30,Lille,Café,Latte,4,4.0
+294,2026-04-30,Marseille,Café,Latte,3,4.0
+571,2026-04-30,Lyon,Boisson fraîche,Limonade,2,3.0
+637,2026-04-30,Paris,Boisson fraîche,Jus d'orange,2,3.5
+753,2026-04-30,Paris,Viennoiserie,Pain au chocolat,6,1.5
+813,2026-04-30,Paris,Thé,Thé à la menthe,1,3.5
+1116,2026-04-30,Lyon,Café,Espresso,4,2.0
+1341,2026-04-30,Marseille,Thé,Thé à la menthe,2,3.5
+1347,2026-04-30,Lille,Thé,Thé à la menthe,1,3.5
+1384,2026-04-30,Lyon,Café,Latte,2,4.0
+427,2026-05-01,Marseille,Café,Cappuccino,1,3.5
+621,2026-05-01,Lyon,Boisson fraîche,Limonade,2,3.0
+642,2026-05-01,Paris,Pâtisserie,Cheesecake,6,4.5
+776,2026-05-01,Lille,Pâtisserie,Muffin,2,3.0
+919,2026-05-01,Paris,Thé,Thé vert,3,3.0
+939,2026-05-01,Lille,Viennoiserie,Pain au chocolat,1,1.5
+1346,2026-05-01,Lyon,Café,Latte,1,4.0
+1373,2026-05-01,Lille,Boisson fraîche,Limonade,1,3.0
+280,2026-05-02,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+406,2026-05-02,Marseille,Pâtisserie,Muffin,2,3.0
+448,2026-05-02,Paris,Thé,Thé à la menthe,2,3.5
+668,2026-05-02,Paris,Boisson fraîche,Jus d'orange,1,3.5
+857,2026-05-02,Paris,Boisson fraîche,Jus d'orange,1,3.5
+1110,2026-05-02,Lyon,Pâtisserie,Muffin,6,3.0
+1383,2026-05-02,Lyon,Boisson fraîche,Jus d'orange,1,3.5
+415,2026-05-03,Paris,Thé,Thé à la menthe,2,3.5
+507,2026-05-03,Lyon,Boisson fraîche,Jus d'orange,3,3.5
+699,2026-05-03,Lyon,Pâtisserie,Muffin,4,3.0
+963,2026-05-03,Marseille,Thé,Thé vert,4,3.0
+1088,2026-05-03,Lyon,Boisson fraîche,Jus d'orange,1,3.5
+1103,2026-05-03,Lyon,Boisson fraîche,Jus d'orange,2,3.5
+1293,2026-05-03,Paris,Thé,Thé à la menthe,1,3.5
+1359,2026-05-03,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+35,2026-05-04,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+98,2026-05-04,Paris,Café,Latte,1,4.0
+456,2026-05-04,Lyon,Viennoiserie,Croissant,4,1.3
+940,2026-05-04,Paris,Pâtisserie,Cookie,6,2.5
+979,2026-05-04,Paris,Pâtisserie,Cookie,1,2.5
+1481,2026-05-04,Lyon,Café,Cappuccino,3,3.5
+69,2026-05-05,Lille,Viennoiserie,Chausson aux pommes,4,2.2
+616,2026-05-05,Lille,Café,Cappuccino,2,3.5
+1343,2026-05-05,Paris,Café,Cappuccino,2,3.5
+145,2026-05-06,Paris,Thé,Thé vert,6,3.0
+284,2026-05-06,Lille,Pâtisserie,Muffin,3,3.0
+318,2026-05-06,Marseille,Boisson fraîche,Limonade,1,3.0
+355,2026-05-06,Paris,Viennoiserie,Pain au chocolat,6,1.5
+397,2026-05-06,Lyon,Boisson fraîche,Limonade,3,3.0
+398,2026-05-06,Paris,Boisson fraîche,Limonade,3,3.0
+655,2026-05-06,Lyon,Viennoiserie,Pain au chocolat,1,1.5
+1271,2026-05-06,Lyon,Boisson fraîche,Jus d'orange,6,3.5
+1310,2026-05-06,Paris,Thé,Thé vert,2,3.0
+1473,2026-05-06,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+748,2026-05-07,Paris,Boisson fraîche,Jus d'orange,1,3.5
+816,2026-05-07,Lyon,Boisson fraîche,Limonade,1,3.0
+1446,2026-05-07,Lyon,Boisson fraîche,Limonade,3,3.0
+38,2026-05-08,Lille,Pâtisserie,Cookie,3,2.5
+83,2026-05-08,Paris,Boisson fraîche,Limonade,6,3.0
+199,2026-05-08,Paris,Pâtisserie,Cookie,1,2.5
+342,2026-05-08,Lyon,Café,Latte,1,4.0
+463,2026-05-08,Lyon,Boisson fraîche,Jus d'orange,6,3.5
+479,2026-05-08,Paris,Pâtisserie,Cookie,1,2.5
+488,2026-05-08,Marseille,Thé,Thé à la menthe,3,3.5
+554,2026-05-08,Lille,Café,Latte,1,4.0
+806,2026-05-08,Paris,Pâtisserie,Cheesecake,1,4.5
+830,2026-05-08,Paris,Café,Cappuccino,4,3.5
+1078,2026-05-08,Paris,Pâtisserie,Cookie,6,2.5
+1172,2026-05-08,Marseille,Pâtisserie,Muffin,2,3.0
+1225,2026-05-08,Lyon,Boisson fraîche,Limonade,6,3.0
+1306,2026-05-08,Lyon,Pâtisserie,Muffin,4,3.0
+1328,2026-05-08,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+1405,2026-05-08,Lille,Boisson fraîche,Limonade,2,3.0
+1464,2026-05-08,Lille,Boisson fraîche,Jus d'orange,3,3.5
+600,2026-05-09,Lyon,Boisson fraîche,Limonade,1,3.0
+658,2026-05-09,Paris,Café,Cappuccino,3,3.5
+1084,2026-05-09,Marseille,Pâtisserie,Cookie,1,2.5
+1430,2026-05-09,Marseille,Pâtisserie,Cookie,2,2.5
+47,2026-05-10,Paris,Boisson fraîche,Limonade,3,3.0
+506,2026-05-10,Paris,Thé,Thé vert,2,3.0
+758,2026-05-10,Marseille,Viennoiserie,Croissant,3,1.3
+1216,2026-05-10,Paris,Pâtisserie,Muffin,2,3.0
+30,2026-05-11,Lyon,Viennoiserie,Croissant,6,1.3
+114,2026-05-11,Marseille,Thé,Thé à la menthe,6,3.5
+314,2026-05-11,Lille,Boisson fraîche,Jus d'orange,1,3.5
+328,2026-05-11,Lyon,Boisson fraîche,Limonade,6,3.0
+365,2026-05-11,Marseille,Café,Latte,4,4.0
+396,2026-05-11,Paris,Boisson fraîche,Limonade,1,3.0
+535,2026-05-11,Lyon,Thé,Thé à la menthe,2,3.5
+675,2026-05-11,Marseille,Café,Cappuccino,2,3.5
+1284,2026-05-11,Paris,Café,Latte,2,4.0
+11,2026-05-12,Lyon,Café,Espresso,1,2.0
+100,2026-05-12,Paris,Boisson fraîche,Jus d'orange,1,3.5
+155,2026-05-12,Lyon,Café,Espresso,6,2.0
+419,2026-05-12,Lille,Thé,Thé vert,2,3.0
+629,2026-05-12,Lyon,Café,Latte,3,4.0
+801,2026-05-12,Paris,Boisson fraîche,Limonade,1,3.0
+823,2026-05-12,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+991,2026-05-12,Lille,Thé,Thé à la menthe,1,3.5
+1290,2026-05-12,Marseille,Boisson fraîche,Limonade,2,3.0
+1418,2026-05-12,Lyon,Thé,Thé vert,1,3.0
+39,2026-05-13,Lyon,Café,Latte,2,4.0
+78,2026-05-13,Paris,Viennoiserie,Croissant,1,1.3
+864,2026-05-13,Paris,Boisson fraîche,Limonade,4,3.0
+1160,2026-05-13,Marseille,Pâtisserie,Muffin,2,3.0
+17,2026-05-14,Lille,Viennoiserie,Pain au chocolat,6,1.5
+618,2026-05-14,Lille,Boisson fraîche,Jus d'orange,2,3.5
+1006,2026-05-14,Paris,Thé,Thé à la menthe,1,3.5
+1317,2026-05-14,Marseille,Viennoiserie,Croissant,4,1.3
+227,2026-05-15,Lyon,Thé,Thé à la menthe,1,3.5
+260,2026-05-15,Lyon,Viennoiserie,Croissant,2,1.3
+352,2026-05-15,Paris,Boisson fraîche,Limonade,6,3.0
+546,2026-05-15,Paris,Thé,Thé vert,1,3.0
+657,2026-05-15,Paris,Thé,Thé vert,1,3.0
+923,2026-05-15,Lyon,Viennoiserie,Pain au chocolat,4,1.5
+1032,2026-05-15,Lyon,Thé,Thé à la menthe,4,3.5
+1042,2026-05-15,Lille,Thé,Thé à la menthe,3,3.5
+1109,2026-05-15,Lyon,Viennoiserie,Pain au chocolat,3,1.5
+1233,2026-05-15,Paris,Viennoiserie,Croissant,2,1.3
+1292,2026-05-15,Marseille,Boisson fraîche,Jus d'orange,4,3.5
+139,2026-05-16,Lille,Boisson fraîche,Limonade,6,3.0
+251,2026-05-16,Lyon,Thé,Thé vert,2,3.0
+292,2026-05-16,Marseille,Thé,Thé à la menthe,1,3.5
+409,2026-05-16,Paris,Boisson fraîche,Limonade,2,3.0
+516,2026-05-16,Lyon,Viennoiserie,Pain au chocolat,2,1.5
+770,2026-05-16,Paris,Pâtisserie,Cookie,4,2.5
+869,2026-05-16,Paris,Boisson fraîche,Jus d'orange,1,3.5
+944,2026-05-16,Marseille,Café,Cappuccino,1,3.5
+953,2026-05-16,Lille,Café,Espresso,2,2.0
+1214,2026-05-16,Lyon,Thé,Thé vert,1,3.0
+116,2026-05-17,Lyon,Boisson fraîche,Jus d'orange,1,3.5
+395,2026-05-17,Paris,Pâtisserie,Cheesecake,6,4.5
+514,2026-05-17,Marseille,Boisson fraîche,Limonade,3,3.0
+514,2026-05-17,Marseille,Boisson fraîche,Limonade,3,3.0
+625,2026-05-17,Lyon,Boisson fraîche,Limonade,2,3.0
+826,2026-05-17,Paris,Boisson fraîche,Jus d'orange,1,3.5
+1174,2026-05-17,Lyon,Boisson fraîche,Limonade,2,3.0
+1256,2026-05-17,Marseille,Café,Espresso,2,2.0
+73,2026-05-18,Lille,Boisson fraîche,Jus d'orange,1,3.5
+386,2026-05-18,Paris,Boisson fraîche,Limonade,1,3.0
+686,2026-05-18,Paris,Viennoiserie,Croissant,2,1.3
+789,2026-05-18,Lyon,Viennoiserie,Pain au chocolat,3,1.5
+1120,2026-05-18,Marseille,Boisson fraîche,Jus d'orange,3,3.5
+1206,2026-05-18,Lyon,Café,Cappuccino,6,3.5
+60,2026-05-19,Paris,Boisson fraîche,Limonade,2,3.0
+76,2026-05-19,Paris,Thé,Thé vert,1,3.0
+119,2026-05-19,Marseille,Thé,Thé vert,1,3.0
+140,2026-05-19,Paris,Boisson fraîche,Jus d'orange,4,3.5
+215,2026-05-19,Lille,Boisson fraîche,Limonade,4,3.0
+243,2026-05-19,Marseille,Boisson fraîche,Limonade,6,3.0
+428,2026-05-19,Marseille,Pâtisserie,Cheesecake,2,4.5
+458,2026-05-19,Marseille,Thé,Thé vert,1,3.0
+1181,2026-05-19,Paris,Boisson fraîche,Limonade,2,3.0
+1234,2026-05-19,Paris,Boisson fraîche,Limonade,2,3.0
+1273,2026-05-19,Lyon,Pâtisserie,Cheesecake,4,4.5
+231,2026-05-20,Paris,Thé,Thé à la menthe,1,3.5
+504,2026-05-20,Paris,Boisson fraîche,Limonade,1,3.0
+544,2026-05-20,Paris,Boisson fraîche,Jus d'orange,2,3.5
+590,2026-05-20,Lyon,Pâtisserie,Muffin,1,3.0
+674,2026-05-20,Paris,Boisson fraîche,Jus d'orange,1,3.5
+732,2026-05-20,Marseille,Café,Cappuccino,2,3.5
+769,2026-05-20,Paris,Pâtisserie,Cheesecake,3,4.5
+931,2026-05-20,Lyon,Viennoiserie,Croissant,1,1.3
+1011,2026-05-20,Paris,Boisson fraîche,Limonade,1,3.0
+1231,2026-05-20,Lyon,Café,Espresso,1,2.0
+1336,2026-05-20,Paris,Café,Latte,1,4.0
+1389,2026-05-20,Marseille,Café,Espresso,6,2.0
+15,2026-05-21,Marseille,Boisson fraîche,Limonade,4,3.0
+94,2026-05-21,Marseille,Pâtisserie,Cheesecake,6,4.5
+132,2026-05-21,Lille,Viennoiserie,Pain au chocolat,4,1.5
+499,2026-05-21,Lyon,Viennoiserie,Croissant,1,1.3
+898,2026-05-21,Lyon,Café,Espresso,3,2.0
+955,2026-05-21,Paris,Boisson fraîche,Limonade,1,3.0
+1080,2026-05-21,Marseille,Viennoiserie,Chausson aux pommes,3,2.2
+1403,2026-05-21,Lyon,Boisson fraîche,Limonade,2,3.0
+63,2026-05-22,Paris,Boisson fraîche,Limonade,3,3.0
+309,2026-05-22,Paris,Boisson fraîche,Limonade,1,3.0
+394,2026-05-22,Paris,Thé,Thé à la menthe,6,3.5
+627,2026-05-22,Paris,Café,Latte,3,4.0
+1009,2026-05-22,Lille,Pâtisserie,Muffin,2,3.0
+1380,2026-05-22,Marseille,Pâtisserie,Muffin,4,3.0
+245,2026-05-23,Lyon,Viennoiserie,Chausson aux pommes,1,2.2
+722,2026-05-23,Marseille,Viennoiserie,Pain au chocolat,4,1.5
+1296,2026-05-23,Marseille,Boisson fraîche,Limonade,1,3.0
+97,2026-05-24,Marseille,Thé,Thé à la menthe,6,3.5
+112,2026-05-24,Lille,Thé,Thé à la menthe,1,3.5
+186,2026-05-24,Paris,Boisson fraîche,Limonade,3,3.0
+267,2026-05-24,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+614,2026-05-24,Paris,Café,Cappuccino,2,3.5
+974,2026-05-24,Paris,Boisson fraîche,Jus d'orange,4,3.5
+990,2026-05-24,Paris,Thé,Thé à la menthe,1,3.5
+1091,2026-05-24,Paris,Boisson fraîche,Jus d'orange,1,3.5
+1274,2026-05-24,Marseille,Boisson fraîche,Limonade,1,3.0
+374,2026-05-25,Paris,Café,Cappuccino,2,3.5
+547,2026-05-25,Paris,Boisson fraîche,Limonade,1,3.0
+558,2026-05-25,Lille,Café,Espresso,2,2.0
+608,2026-05-25,Lyon,Boisson fraîche,Limonade,1,3.0
+832,2026-05-25,Paris,Café,Cappuccino,2,3.5
+1025,2026-05-25,Paris,Pâtisserie,Cookie,4,2.5
+1202,2026-05-25,Lyon,Thé,Thé vert,6,3.0
+1289,2026-05-25,Paris,Boisson fraîche,Limonade,4,3.0
+1318,2026-05-25,Paris,Boisson fraîche,Limonade,6,3.0
+1412,2026-05-25,Paris,Boisson fraîche,Limonade,2,3.0
+1456,2026-05-25,Paris,Boisson fraîche,Limonade,1,3.0
+44,2026-05-26,Paris,Viennoiserie,Croissant,1,1.3
+356,2026-05-26,Lyon,Boisson fraîche,Limonade,2,3.0
+792,2026-05-26,Paris,Café,Cappuccino,2,3.5
+880,2026-05-26,Paris,Viennoiserie,Pain au chocolat,1,1.5
+968,2026-05-26,Paris,Café,Latte,1,4.0
+1105,2026-05-26,Marseille,Boisson fraîche,Jus d'orange,4,3.5
+1238,2026-05-26,Paris,Thé,Thé vert,1,3.0
+291,2026-05-27,Paris,Boisson fraîche,Jus d'orange,1,3.5
+360,2026-05-27,Lyon,Viennoiserie,Chausson aux pommes,2,2.2
+1018,2026-05-27,Paris,Boisson fraîche,Limonade,6,3.0
+1102,2026-05-27,Lyon,Boisson fraîche,Limonade,2,3.0
+1253,2026-05-27,Paris,Café,Cappuccino,1,3.5
+204,2026-05-28,Marseille,Viennoiserie,Chausson aux pommes,2,2.2
+262,2026-05-28,Lille,Thé,Thé à la menthe,1,3.5
+474,2026-05-28,Paris,Boisson fraîche,Limonade,6,3.0
+646,2026-05-28,Paris,Thé,Thé à la menthe,1,3.5
+889,2026-05-28,Paris,Viennoiserie,Pain au chocolat,4,1.5
+1015,2026-05-28,Lyon,Pâtisserie,Muffin,1,3.0
+1076,2026-05-28,Paris,Café,Cappuccino,2,3.5
+288,2026-05-29,Lyon,Viennoiserie,Croissant,1,1.3
+672,2026-05-29,Paris,Thé,Thé vert,3,3.0
+705,2026-05-29,Paris,Thé,Thé vert,1,3.0
+735,2026-05-29,Lille,Boisson fraîche,Limonade,2,3.0
+762,2026-05-29,Lyon,Boisson fraîche,Jus d'orange,3,3.5
+791,2026-05-29,Lyon,Boisson fraîche,Jus d'orange,1,3.5
+1129,2026-05-29,Marseille,Café,Cappuccino,6,3.5
+1312,2026-05-29,Lyon,Thé,Thé à la menthe,1,3.5
+9,2026-05-30,Lyon,Café,Latte,6,4.0
+84,2026-05-30,Paris,Café,Espresso,6,2.0
+281,2026-05-30,Marseille,Boisson fraîche,Jus d'orange,2,3.5
+372,2026-05-30,Lyon,Thé,Thé à la menthe,1,3.5
+592,2026-05-30,Lille,Boisson fraîche,Jus d'orange,1,3.5
+768,2026-05-30,Marseille,Pâtisserie,Cheesecake,1,4.5
+820,2026-05-30,Lyon,Boisson fraîche,Limonade,2,3.0
+829,2026-05-30,Lille,Viennoiserie,Pain au chocolat,2,1.5
+896,2026-05-30,Paris,Thé,Thé vert,1,3.0
+978,2026-05-30,Lyon,Boisson fraîche,Jus d'orange,6,3.5
+1126,2026-05-30,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+1205,2026-05-30,Marseille,Boisson fraîche,Jus d'orange,4,3.5
+1376,2026-05-30,Paris,Pâtisserie,Muffin,6,3.0
+3,2026-05-31,Lyon,Café,Espresso,2,2.0
+654,2026-05-31,Paris,Thé,Thé vert,1,3.0
+146,2026-06-01,Lyon,Boisson fraîche,Jus d'orange,4,3.5
+278,2026-06-01,Paris,Boisson fraîche,Jus d'orange,4,3.5
+351,2026-06-01,Paris,Thé,Thé vert,2,3.0
+543,2026-06-01,Paris,Boisson fraîche,Limonade,6,3.0
+649,2026-06-01,Lyon,Boisson fraîche,Jus d'orange,2,3.5
+742,2026-06-01,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+873,2026-06-01,Lille,Boisson fraîche,Jus d'orange,2,3.5
+1125,2026-06-01,Paris,Café,Espresso,1,2.0
+1356,2026-06-01,Marseille,Thé,Thé vert,2,3.0
+1433,2026-06-01,Paris,Pâtisserie,Muffin,6,3.0
+169,2026-06-02,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+196,2026-06-02,Paris,Café,Espresso,6,2.0
+270,2026-06-02,Paris,Thé,Thé vert,3,3.0
+481,2026-06-02,Lyon,Pâtisserie,Muffin,4,3.0
+803,2026-06-02,Lyon,Boisson fraîche,Limonade,1,3.0
+2,2026-06-03,Lyon,Pâtisserie,Cheesecake,6,4.5
+26,2026-06-03,Lille,Boisson fraîche,Limonade,1,3.0
+568,2026-06-03,Paris,Boisson fraîche,Jus d'orange,2,3.5
+1077,2026-06-03,Paris,Viennoiserie,Croissant,1,1.3
+1401,2026-06-03,Lille,Boisson fraîche,Jus d'orange,2,3.5
+1451,2026-06-03,Paris,Pâtisserie,Cheesecake,1,4.5
+1452,2026-06-03,Lyon,Thé,Thé vert,1,3.0
+1476,2026-06-03,Lyon,Pâtisserie,Cookie,1,2.5
+1493,2026-06-03,Marseille,Thé,Thé vert,1,3.0
+142,2026-06-04,Lyon,Viennoiserie,Pain au chocolat,6,1.5
+149,2026-06-04,Lille,Thé,Thé vert,3,3.0
+202,2026-06-04,Lyon,Viennoiserie,Pain au chocolat,1,1.5
+647,2026-06-04,Paris,Viennoiserie,Pain au chocolat,6,1.5
+837,2026-06-04,Lille,Boisson fraîche,Jus d'orange,6,3.5
+1280,2026-06-04,Paris,Viennoiserie,Pain au chocolat,6,1.5
+1397,2026-06-04,Paris,Viennoiserie,Pain au chocolat,6,1.5
+77,2026-06-05,Lyon,Pâtisserie,Cheesecake,1,4.5
+113,2026-06-05,Lille,Café,Espresso,4,2.0
+224,2026-06-05,Lyon,Boisson fraîche,Limonade,6,3.0
+441,2026-06-05,Marseille,Boisson fraîche,Jus d'orange,6,3.5
+628,2026-06-05,Lyon,Boisson fraîche,Limonade,2,3.0
+959,2026-06-05,Marseille,Viennoiserie,Pain au chocolat,1,1.5
+984,2026-06-05,Marseille,Boisson fraîche,Limonade,4,3.0
+1155,2026-06-05,Lyon,Pâtisserie,Cheesecake,4,4.5
+1443,2026-06-05,Lyon,Boisson fraîche,Jus d'orange,2,3.5
+1483,2026-06-05,Paris,Thé,Thé vert,6,3.0
+23,2026-06-06,Marseille,Boisson fraîche,Jus d'orange,2,3.5
+185,2026-06-06,Paris,Café,Latte,3,4.0
+211,2026-06-06,Lyon,Pâtisserie,Muffin,4,3.0
+434,2026-06-06,Marseille,Boisson fraîche,Jus d'orange,2,3.5
+533,2026-06-06,Marseille,Boisson fraîche,Limonade,3,3.0
+644,2026-06-06,Marseille,Viennoiserie,Pain au chocolat,2,1.5
+1090,2026-06-06,Marseille,Thé,Thé vert,1,3.0
+1152,2026-06-06,Lyon,Pâtisserie,Muffin,1,3.0
+1320,2026-06-06,Lyon,Boisson fraîche,Jus d'orange,3,3.5
+1414,2026-06-06,Lille,Boisson fraîche,Limonade,2,3.0
+110,2026-06-07,Paris,Boisson fraîche,Limonade,6,3.0
+341,2026-06-07,Paris,Boisson fraîche,Limonade,1,3.0
+388,2026-06-07,Lyon,Pâtisserie,Cookie,2,2.5
+594,2026-06-07,Paris,Café,Espresso,1,2.0
+679,2026-06-07,Lille,Boisson fraîche,Limonade,3,3.0
+866,2026-06-07,Paris,Boisson fraîche,Jus d'orange,3,3.5
+1422,2026-06-07,Lyon,Thé,Thé à la menthe,3,3.5
+1458,2026-06-07,Marseille,Café,Cappuccino,6,3.5
+570,2026-06-08,Lille,Pâtisserie,Cookie,6,2.5
+645,2026-06-08,Marseille,Boisson fraîche,Jus d'orange,2,3.5
+725,2026-06-08,Lille,Boisson fraîche,Limonade,6,3.0
+914,2026-06-08,Marseille,Boisson fraîche,Jus d'orange,3,3.5
+1007,2026-06-08,Lille,Thé,Thé vert,4,3.0
+1054,2026-06-08,Marseille,Pâtisserie,Cookie,4,2.5
+1111,2026-06-08,Marseille,Boisson fraîche,Limonade,3,3.0
+1176,2026-06-08,Paris,Thé,Thé à la menthe,2,3.5
+1437,2026-06-08,Lyon,Café,Cappuccino,2,3.5
+183,2026-06-09,Marseille,Boisson fraîche,Limonade,1,3.0
+235,2026-06-09,Lille,Boisson fraîche,Limonade,2,3.0
+540,2026-06-09,Paris,Café,Espresso,2,2.0
+957,2026-06-09,Paris,Boisson fraîche,Limonade,1,3.0
+1141,2026-06-09,Marseille,Boisson fraîche,Jus d'orange,3,3.5
+1426,2026-06-09,Lyon,Pâtisserie,Muffin,2,3.0
+1488,2026-06-09,Lille,Boisson fraîche,Limonade,1,3.0
+301,2026-06-10,Paris,Boisson fraîche,Limonade,4,3.0
+862,2026-06-10,Lyon,Boisson fraîche,Jus d'orange,6,3.5
+925,2026-06-10,Paris,Boisson fraîche,Limonade,1,3.0
+1164,2026-06-10,Lyon,Boisson fraîche,Jus d'orange,4,3.5
+1411,2026-06-10,Marseille,Boisson fraîche,Jus d'orange,2,3.5
+259,2026-06-11,Paris,Pâtisserie,Cookie,4,2.5
+293,2026-06-11,Paris,Boisson fraîche,Jus d'orange,2,3.5
+362,2026-06-11,Paris,Boisson fraîche,Limonade,1,3.0
+478,2026-06-11,Paris,Pâtisserie,Muffin,2,3.0
+561,2026-06-11,Lyon,Boisson fraîche,Limonade,2,3.0
+667,2026-06-11,Marseille,Thé,Thé vert,6,3.0
+756,2026-06-11,Lyon,Thé,Thé vert,2,3.0
+824,2026-06-11,Marseille,Thé,Thé vert,1,3.0
+913,2026-06-11,Paris,Boisson fraîche,Limonade,1,3.0
+246,2026-06-12,Lyon,Café,Latte,,4.0
+403,2026-06-12,Paris,Boisson fraîche,Jus d'orange,1,3.5
+424,2026-06-12,Paris,Viennoiserie,Croissant,4,1.3
+790,2026-06-12,Marseille,Boisson fraîche,Limonade,2,3.0
+1037,2026-06-12,Lille,Café,Cappuccino,1,3.5
+1038,2026-06-12,Lille,Thé,Thé à la menthe,2,3.5
+1144,2026-06-12,Lyon,Pâtisserie,Cheesecake,1,4.5
+1260,2026-06-12,Paris,Boisson fraîche,Jus d'orange,1,3.5
+1344,2026-06-12,Marseille,Viennoiserie,Croissant,6,1.3
+354,2026-06-13,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+542,2026-06-13,Lille,Viennoiserie,Croissant,1,1.3
+677,2026-06-13,Paris,Viennoiserie,Pain au chocolat,4,1.5
+946,2026-06-13,Marseille,Thé,Thé vert,4,3.0
+1184,2026-06-13,Paris,Pâtisserie,Cookie,1,2.5
+1196,2026-06-13,Paris,Thé,Thé vert,1,3.0
+1245,2026-06-13,Paris,Boisson fraîche,Jus d'orange,6,3.5
+1367,2026-06-13,Marseille,Boisson fraîche,Limonade,6,3.0
+1471,2026-06-13,Lyon,Café,Latte,3,4.0
+1496,2026-06-13,Paris,Viennoiserie,Croissant,6,1.3
+106,2026-06-14,Lyon,Café,Cappuccino,2,3.5
+195,2026-06-14,Paris,Thé,Thé à la menthe,3,3.5
+247,2026-06-14,Lyon,Boisson fraîche,Limonade,4,3.0
+300,2026-06-14,Lyon,Café,Latte,4,4.0
+683,2026-06-14,Marseille,Boisson fraîche,Jus d'orange,2,3.5
+795,2026-06-14,Marseille,Boisson fraîche,Jus d'orange,4,3.5
+1262,2026-06-14,Paris,Viennoiserie,Chausson aux pommes,3,2.2
+1321,2026-06-14,Paris,Pâtisserie,Cookie,4,2.5
+41,2026-06-15,Paris,Boisson fraîche,Jus d'orange,1,3.5
+96,2026-06-15,Paris,Pâtisserie,Cookie,2,2.5
+109,2026-06-15,Lyon,Boisson fraîche,Limonade,6,3.0
+163,2026-06-15,Lyon,Boisson fraîche,Limonade,1,3.0
+299,2026-06-15,Lyon,Thé,Thé à la menthe,1,3.5
+380,2026-06-15,Paris,Boisson fraîche,Limonade,3,3.0
+382,2026-06-15,Lyon,Café,Latte,2,4.0
+476,2026-06-15,Marseille,Boisson fraîche,Limonade,3,3.0
+526,2026-06-15,Paris,Café,Latte,2,4.0
+935,2026-06-15,Paris,Thé,Thé vert,1,3.0
+960,2026-06-15,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+1222,2026-06-15,Lyon,Thé,Thé à la menthe,6,3.5
+1252,2026-06-15,Lille,Boisson fraîche,Jus d'orange,1,3.5
+1261,2026-06-15,Paris,Café,Espresso,2,2.0
+1463,2026-06-15,Paris,Pâtisserie,Cookie,1,2.5
+168,2026-06-16,Paris,Café,Espresso,2,2.0
+371,2026-06-16,Marseille,Boisson fraîche,Jus d'orange,2,3.5
+660,2026-06-16,Lille,Thé,Thé vert,2,3.0
+772,2026-06-16,Paris,Viennoiserie,Pain au chocolat,1,1.5
+1275,2026-06-16,Paris,Boisson fraîche,Limonade,1,3.0
+559,2026-06-17,Paris,Boisson fraîche,Jus d'orange,1,3.5
+693,2026-06-17,Paris,Pâtisserie,Cookie,2,2.5
+723,2026-06-17,Marseille,Boisson fraîche,Limonade,1,3.0
+737,2026-06-17,Lille,Café,Espresso,1,2.0
+1351,2026-06-17,Lyon,Viennoiserie,Chausson aux pommes,2,2.2
+1431,2026-06-17,Lille,Viennoiserie,Pain au chocolat,2,1.5
+104,2026-06-18,Lyon,Viennoiserie,Chausson aux pommes,6,2.2
+579,2026-06-18,Marseille,Boisson fraîche,Jus d'orange,,3.5
+641,2026-06-18,Paris,Boisson fraîche,Limonade,4,3.0
+697,2026-06-18,Lille,Boisson fraîche,Limonade,3,3.0
+1154,2026-06-18,Lyon,Pâtisserie,Cookie,2,2.5
+1226,2026-06-18,Paris,Boisson fraîche,Limonade,4,3.0
+1268,2026-06-18,Lyon,Café,Espresso,1,2.0
+1307,2026-06-18,Marseille,Pâtisserie,Cookie,1,2.5
+1421,2026-06-18,Paris,Café,Cappuccino,2,3.5
+99,2026-06-19,Marseille,Viennoiserie,Croissant,6,1.3
+743,2026-06-19,Paris,Boisson fraîche,Limonade,2,3.0
+745,2026-06-19,Lille,Café,Latte,4,4.0
+778,2026-06-19,Marseille,Thé,Thé à la menthe,6,3.5
+852,2026-06-19,Marseille,Thé,Thé à la menthe,1,3.5
+874,2026-06-19,Marseille,Thé,Thé vert,1,3.0
+928,2026-06-19,Paris,Thé,Thé à la menthe,2,3.5
+814,2026-06-20,Lyon,Boisson fraîche,Jus d'orange,1,3.5
+1345,2026-06-20,Paris,Pâtisserie,Cheesecake,3,4.5
+1385,2026-06-20,Marseille,Boisson fraîche,Limonade,1,3.0
+24,2026-06-21,Marseille,Boisson fraîche,Limonade,6,3.0
+167,2026-06-21,Lyon,Boisson fraîche,Jus d'orange,1,3.5
+339,2026-06-21,Paris,Thé,Thé vert,1,3.0
+369,2026-06-21,Paris,Thé,Thé vert,1,3.0
+702,2026-06-21,Marseille,Boisson fraîche,Limonade,2,3.0
+760,2026-06-21,Paris,Boisson fraîche,Limonade,2,3.0
+783,2026-06-21,Lille,Boisson fraîche,Limonade,4,3.0
+822,2026-06-21,Paris,Thé,Thé à la menthe,2,3.5
+986,2026-06-21,Paris,Boisson fraîche,Jus d'orange,1,3.5
+1118,2026-06-21,Paris,Café,Espresso,3,2.0
+1340,2026-06-21,Marseille,Café,Espresso,3,2.0
+1487,2026-06-21,Marseille,Viennoiserie,Chausson aux pommes,2,2.2
+14,2026-06-22,Lyon,Boisson fraîche,Limonade,2,3.0
+68,2026-06-22,Lyon,Boisson fraîche,Limonade,1,3.0
+521,2026-06-22,Marseille,Boisson fraîche,Limonade,3,3.0
+591,2026-06-22,Marseille,Boisson fraîche,Jus d'orange,3,3.5
+650,2026-06-22,Paris,Boisson fraîche,Jus d'orange,3,3.5
+744,2026-06-22,Lille,Pâtisserie,Cookie,3,2.5
+809,2026-06-22,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+936,2026-06-22,Marseille,Café,Latte,4,4.0
+1124,2026-06-22,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+1128,2026-06-22,Lyon,Viennoiserie,Chausson aux pommes,1,2.2
+1304,2026-06-22,Marseille,Boisson fraîche,Limonade,3,3.0
+1453,2026-06-22,Paris,Boisson fraîche,Limonade,4,3.0
+33,2026-06-23,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+52,2026-06-23,Lille,Viennoiserie,Chausson aux pommes,2,2.2
+95,2026-06-23,Marseille,Boisson fraîche,Limonade,3,3.0
+263,2026-06-23,Paris,Thé,Thé à la menthe,6,3.5
+321,2026-06-23,Paris,Thé,Thé à la menthe,2,3.5
+588,2026-06-23,Paris,Café,Cappuccino,6,3.5
+609,2026-06-23,Lyon,Boisson fraîche,Limonade,2,3.0
+719,2026-06-23,Lille,Viennoiserie,Croissant,2,1.3
+886,2026-06-23,Marseille,Boisson fraîche,Limonade,2,3.0
+1101,2026-06-23,Lille,Café,Latte,6,4.0
+1147,2026-06-23,Marseille,Pâtisserie,Cheesecake,4,4.5
+1279,2026-06-23,Lyon,Pâtisserie,Muffin,3,3.0
+212,2026-06-24,Lyon,Viennoiserie,Pain au chocolat,1,1.5
+868,2026-06-24,Lyon,Boisson fraîche,Jus d'orange,3,3.5
+1085,2026-06-24,Lyon,Café,Cappuccino,1,3.5
+1254,2026-06-24,Paris,Viennoiserie,Chausson aux pommes,1,2.2
+46,2026-06-25,Paris,Viennoiserie,Croissant,1,1.3
+50,2026-06-25,Lyon,Viennoiserie,Pain au chocolat,1,1.5
+734,2026-06-25,Paris,Thé,Thé à la menthe,1,3.5
+916,2026-06-25,Paris,Viennoiserie,Pain au chocolat,2,1.5
+1031,2026-06-25,Marseille,Boisson fraîche,Jus d'orange,3,3.5
+1251,2026-06-25,Lyon,Thé,Thé à la menthe,1,3.5
+1278,2026-06-25,Lyon,Café,Cappuccino,6,3.5
+1342,2026-06-25,Marseille,Café,Latte,2,4.0
+1500,2026-06-25,Lyon,Boisson fraîche,Limonade,1,3.0
+25,2026-06-26,Marseille,Thé,Thé à la menthe,1,3.5
+88,2026-06-26,Lille,Viennoiserie,Chausson aux pommes,4,2.2
+244,2026-06-26,Lyon,Viennoiserie,Croissant,2,1.3
+303,2026-06-26,Lyon,Boisson fraîche,Jus d'orange,2,3.5
+443,2026-06-26,Lyon,Boisson fraîche,Jus d'orange,6,3.5
+560,2026-06-26,Lyon,Thé,Thé à la menthe,1,3.5
+834,2026-06-26,Marseille,Café,Cappuccino,1,3.5
+977,2026-06-26,Paris,Thé,Thé à la menthe,3,3.5
+1236,2026-06-26,Paris,Boisson fraîche,Limonade,1,3.0
+1459,2026-06-26,Paris,Boisson fraîche,Jus d'orange,1,3.5
+165,2026-06-27,Paris,Boisson fraîche,Jus d'orange,1,3.5
+180,2026-06-27,Lyon,Thé,Thé vert,4,3.0
+182,2026-06-27,Paris,Boisson fraîche,Limonade,1,3.0
+203,2026-06-27,Paris,Café,Latte,1,4.0
+423,2026-06-27,Lille,Café,Latte,2,4.0
+495,2026-06-27,Marseille,Café,Latte,1,4.0
+890,2026-06-27,Paris,Boisson fraîche,Jus d'orange,6,3.5
+72,2026-06-28,Lyon,Boisson fraîche,Limonade,4,3.0
+210,2026-06-28,Paris,Café,Cappuccino,4,3.5
+347,2026-06-28,Paris,Thé,Thé à la menthe,2,3.5
+392,2026-06-28,Lyon,Boisson fraîche,Jus d'orange,1,3.5
+420,2026-06-28,Lyon,Viennoiserie,Pain au chocolat,2,1.5
+564,2026-06-28,Marseille,Pâtisserie,Muffin,1,3.0
+740,2026-06-28,Paris,Café,Espresso,6,2.0
+900,2026-06-28,Marseille,Café,Espresso,1,2.0
+1240,2026-06-28,Lille,Viennoiserie,Chausson aux pommes,1,2.2
+158,2026-06-29,Marseille,Thé,Thé vert,6,3.0
+252,2026-06-29,Lyon,Thé,Thé à la menthe,2,3.5
+432,2026-06-29,Paris,Viennoiserie,Chausson aux pommes,2,2.2
+466,2026-06-29,Paris,Thé,Thé vert,6,3.0
+523,2026-06-29,Paris,Boisson fraîche,Jus d'orange,,3.5
+567,2026-06-29,Marseille,Pâtisserie,Muffin,1,3.0
+587,2026-06-29,Paris,Boisson fraîche,Jus d'orange,4,3.5
+664,2026-06-29,Paris,Boisson fraîche,Limonade,2,3.0
+849,2026-06-29,Lille,Boisson fraîche,Limonade,4,3.0
+905,2026-06-29,Paris,Viennoiserie,Croissant,1,1.3
+1068,2026-06-29,Lyon,Boisson fraîche,Limonade,2,3.0
+1402,2026-06-29,Marseille,Boisson fraîche,Jus d'orange,1,3.5
+1440,2026-06-29,Paris,Thé,Thé vert,4,3.0
+12,2026-06-30,Lyon,Café,Cappuccino,6,3.5
+102,2026-06-30,Paris,Boisson fraîche,Jus d'orange,1,3.5
+505,2026-06-30,Lille,Boisson fraîche,Jus d'orange,2,3.5
+520,2026-06-30,Paris,Thé,Thé vert,6,3.0
+598,2026-06-30,Lyon,Viennoiserie,Chausson aux pommes,4,2.2
+956,2026-06-30,Marseille,Pâtisserie,Cookie,4,2.5
+961,2026-06-30,Paris,Thé,Thé à la menthe,2,3.5
+962,2026-06-30,Paris,Boisson fraîche,Jus d'orange,2,3.5
